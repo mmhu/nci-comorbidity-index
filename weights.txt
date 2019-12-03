@@ -1,0 +1,37 @@
+Taken from the SAS macro to calculate NCI Comorbidity Index
+https://healthcaredelivery.cancer.gov/seermedicare/considerations/charlson.comorbidity.macro.sas
+
+*** Calculate the Charlson Comorbidity Score for prior conditions;
+    Charlson = 
+      1*(acute_mi or history_mi) +
+      1*(chf) +
+      1*(pvd) +
+      1*(cvd) +
+      1*(copd) +
+      1*(dementia) +
+      2*(paralysis) +
+      1*(diabetes and not diabetes_comp) +
+      2*(diabetes_comp) +
+      2*(renal_disease) +
+      1*(mild_liver_disease and not liver_disease) +
+      3*(liver_disease) +
+      1*(ulcers) +
+      1*(rheum_disease) +
+      6*(aids);
+
+    *** Calculate the NCI Comorbidity Index for prior conditions;
+    NCIindex = 
+      1.14*(acute_mi) +
+      1.08*(history_mi) +
+      1.91*(chf) +
+      1.30*(pvd) +
+      1.32*(cvd) +
+      1.69*(copd) +
+      2.06*(dementia) +
+      1.49*(paralysis) +
+      1.34*(diabetes or diabetes_comp) +
+      1.60*(renal_disease) +
+      2.09*(mild_liver_disease or liver_disease) +
+      1.08*(ulcers) +
+      1.25*(rheum_disease) +
+      1.79*(aids);
