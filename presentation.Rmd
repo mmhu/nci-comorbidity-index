@@ -1,15 +1,21 @@
-Calculating NCI Comorbidity Index
-========================================================
-author: Miriam Hu and Naichen Ni
-date: Dec. 5, 2019
-autosize: true
+---
+title: "Calculating NCI Comorbidity Index"
+author: "Miriam Hu and Naichen Ni"
+date: "Dec. 5, 2019"
+output: ioslides_presentation
+---
 
 ```{r setup, include = FALSE}
-opts_chunk$set(echo = FALSE, cache = TRUE)
+library(knitr)
+  opts_chunk$set(echo = FALSE, cache = TRUE, autodep = TRUE, 
+                 message = FALSE, warning = FALSE)
+library(tidyverse)
+library(plyr)
+library(comorbidity)
+library(readxl)
 ```
 
-Introduction
-========================================================
+## Introduction
 
 **Charlson Comorbidity Index:** most widely used measure of comorbid diseases
 
@@ -21,20 +27,14 @@ Introduction
 
 What if your dataset only had cancer patients?
 
-NCI Comorbidity Index
-========================================================
+**NCI Comorbidity Index:**
+
 - Excludes tumors, leukemias, and lymphomas
 - Slightly different weighting scheme (e.g. kidney disease has a score of 1.60 instead of 2)
 
-Example Data
-========================================================
+## Example Data
 
 ```{r example-data}
-library(tidyverse)
-library(plyr)
-library(comorbidity)
-library(readxl)
-
 # Clean the example data and write to csv for presentation -----
 # example <- read_csv("example_data.csv")
 # example <- example %>% subset(DIAGNOSIS_CODE_TYPE == "ICD-10")
@@ -48,12 +48,4 @@ library(readxl)
 example <- read_csv("example-data.csv")
 kable(example[1:3, ])
 ```
-***
-Text here
 
-Slide With Plot
-========================================================
-
-```{r, echo=FALSE}
-plot(cars)
-```
