@@ -1,0 +1,2518 @@
+id,DIAGNOSIS_CODE,DIAGNOSIS_DESCRIPTION
+1,H50.21,Hypotropia of right eye
+1,I82.411,Acute deep vein thrombosis (DVT) of femoral vein of right lower extremity (CMS/HCC)
+1,C34.91,Primary cancer of right lung metastatic to other site (CMS/HCC)
+1,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+1,H52.203,Astigmatism of both eyes with presbyopia
+1,G56.22,Ulnar neuropathy at elbow of left upper extremity
+1,C34.91,"Adenocarcinoma of right lung, stage 4 (CMS/HCC)"
+2,M67.911,Tendinopathy of right rotator cuff
+3,Z92.89,History of immunotherapy
+3,S52.501D,Nondisplaced fracture of distal end of right radius with routine healing
+3,H02.831,Dermatochalasis of both upper eyelids
+3,I26.99,Other pulmonary embolism without acute cor pulmonale (CMS/HCC)
+3,Z92.89,History of immunotherapy
+3,C34.32,Malignant neoplasm of lower lobe of left lung (CMS/HCC)
+5,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+5,M54.40,Acute midline low back pain with sciatica
+5,C78.30,Malignant neoplasm metastatic to respiratory structure (CMS/HCC)
+6,C44.629,Squamous cell carcinoma of left hand
+6,M79.605,Pain of left lower extremity
+7,G89.3,Pain due to neoplasm
+8,Z76.82,"Pre-kidney transplant, listed"
+9,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+9,Z00.6,Clinical trial participant
+9,C34.92,Small cell carcinoma of left lung (CMS/HCC)
+9,C34.92,Non-small cell cancer of left lung (CMS/HCC)
+9,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+9,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+9,E11.22,CKD stage 2 due to type 2 diabetes mellitus (CMS/HCC)
+9,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+9,Z00.6,Clinical trial participant
+9,R51,Nonintractable episodic headache
+10,C64.2,Renal cell carcinoma of left kidney (CMS/HCC)
+12,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+12,C79.51,Secondary malignancy of thoracic vertebral column (CMS/HCC)
+12,I15.8,Other secondary hypertension
+13,I82.402,Acute deep vein thrombosis (DVT) of left lower extremity (CMS/HCC)
+14,Z51.5,Palliative care status
+16,Z92.89,History of immunotherapy
+16,E11.22,Type 2 diabetes mellitus with chronic kidney disease on chronic dialysis (CMS/HCC)
+17,I63.439,Cerebrovascular accident (CVA) due to embolism of posterior cerebral artery with infarctions of both occipital lobes (CMS/HCC)
+17,C79.61,Malignant neoplasm metastatic to right ovary (CMS/HCC)
+17,R53.83,Other fatigue
+18,Z74.09,Decreased ambulation status
+20,M06.9,Rheumatoid arthritis (CMS/HCC)
+20,M54.40,Acute midline low back pain with sciatica
+20,E03.8,Other specified hypothyroidism
+20,M25.552,Greater trochanteric pain syndrome of left lower extremity
+20,J18.1,Pneumonia of right lower lobe due to infectious organism (CMS/HCC)
+20,F41.9,"Anxiety disorder, unspecified"
+21,R31.21,Asymptomatic microscopic hematuria
+21,J61,Asbestosis (CMS/HCC)
+24,C43.72,Malignant melanoma of left great toe (CMS/HCC)
+25,B36.9,Fungal rash of trunk
+25,E23.6,Hypophysitis (CMS/HCC)
+25,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+25,G89.18,Acute post-operative pain
+25,M81.0,Osteoporosis without current pathological fracture
+26,Z00.6,Research study patient
+26,M23.203,Old complex tear of medial meniscus of right knee
+26,M79.2,"Neuropathic pain of lower extremity, left"
+27,M25.511,"Trigger point of shoulder region, right"
+29,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+29,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+29,M84.48XA,Pathological fracture of sacral vertebra
+29,E78.5,Hyperlipidemia with target low density lipoprotein (LDL) cholesterol less than 130 mg/dL
+31,M50.20,Bulging of cervical intervertebral disc
+31,C43.72,Malignant melanoma of left lower extremity (CMS/HCC)
+31,R53.83,Other fatigue
+31,R11.2,Non-intractable vomiting with nausea
+31,G89.18,Acute post-operative pain
+31,R91.8,Opacity of lung on imaging study
+31,R91.1,Lung nodule < 6cm on CT
+35,G93.9,Midline shift of brain
+35,H16.223,Keratoconjunctivitis sicca of both eyes not due to Sjogren's syndrome
+35,I48.91,Atrial fibrillation and flutter (CMS/HCC)
+35,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+35,Z34.93,Pregnant and not yet delivered in third trimester
+36,H04.563,"Punctal stenosis, acquired, bilateral"
+36,J18.9,Cavitary pneumonia
+37,Z00.6,Clinical trial participant
+37,C64.2,Renal cell carcinoma of left kidney (CMS/HCC)
+38,C79.31,Metastatic melanoma of brain
+38,K25.9,Multiple gastric ulcers
+38,R89.7,High microsatellite instability in tissue of neoplasm
+38,M54.6,Right-sided thoracic back pain
+38,H25.13,Nuclear sclerosis of both eyes
+38,C44.91,Malignant basal cell neoplasm of skin
+38,M54.42,Chronic bilateral low back pain with bilateral sciatica
+38,C69.61,Cancer of right orbit (CMS/HCC)
+39,R79.89,Low serum vitamin D
+40,J98.8,Congestion of respiratory tract
+40,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+40,M16.11,Arthritis of right hip
+40,M79.604,Pain of right lower extremity
+41,I63.413,Cerebrovascular accident (CVA) due to bilateral embolism of middle cerebral arteries (CMS/HCC)
+41,M15.0,Primary osteoarthritis involving multiple joints
+41,R51,Frequent headaches
+42,S21.202A,Open wound of left side of back
+42,C78.6,Metastatic adenocarcinoma involving retroperitoneum with unknown primary site (CMS/HCC)
+43,H35.20,Proliferative vitreoretinopathy
+43,G89.18,Acute post-operative pain
+45,I26.92,Chronic saddle pulmonary embolism without acute cor pulmonale (CMS/HCC)
+45,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+46,C43.71,Melanoma of right lateral thigh (CMS/HCC)
+48,H93.13,Bilateral tinnitus
+48,S32.010A,Closed compression fracture of L1 lumbar vertebra
+50,M54.5,Acute bilateral low back pain without sciatica
+50,M06.9,Rheumatoid arthritis (CMS/HCC)
+51,I82.403,Deep vein thrombosis (DVT) of both lower extremities (CMS/HCC)
+52,M25.641,Stiffness of joints of both hands
+52,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+53,E23.6,Hypophysitis (CMS/HCC)
+53,Z79.01,On rivaroxaban therapy
+55,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+56,H02.052,Trichiasis of right lower eyelid
+56,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+56,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+60,E11.9,Diabetes (CMS/HCC)
+61,N13.5,"Ureteropelvic junction (UPJ) obstruction, left"
+61,H20.9,Iritis of both eyes
+61,J96.10,Chronic neuromuscular respiratory failure (CMS/HCC)
+61,Z29.8,Encounter for hydration prior to CT scan
+63,Z51.11,Encounter for chemotherapy management
+67,H04.129,Dry eye
+67,C43.71,Malignant melanoma of right foot (CMS/HCC)
+67,I69.352,Hemiparesis of left dominant side as late effect of cerebral infarction (CMS/HCC)
+67,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+67,S22.000A,Compression fracture of body of thoracic vertebra (CMS/HCC)
+67,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+67,E11.3399,"Type 2 diabetes mellitus with moderate nonproliferative retinopathy, with long-term current use of insulin (CMS/HCC)"
+67,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+67,I15.8,Other secondary hypertension
+67,Z00.6,Patient in clinical research study
+67,G89.18,Acute post-operative pain
+69,Z91.89,Candidate for statin therapy due to risk of future cardiovascular event
+69,Z00.6,Evaluated for clinical trial enrollment
+69,Z85.528,History of renal cell cancer
+69,G93.6,Vasogenic edema (CMS/HCC)
+70,G62.0,Chemotherapy-induced peripheral neuropathy (CMS/HCC)
+70,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+70,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+70,C79.31,Metastatic melanoma of brain
+71,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+72,M25.522,"Elbow pain, chronic, left"
+72,Z68.1,"Body mass index (BMI) 19.9 or less, adult"
+72,Z00.6,Clinical trial participant at discharge
+72,F41.8,Anxiety about health
+72,C34.91,Primary malignant neoplasm of right lung (CMS/HCC)
+73,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+73,C79.31,Metastatic melanoma of brain
+73,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+73,A41.9,Sepsis (CMS/HCC)
+73,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+73,C79.71,Malignant neoplasm metastatic to right adrenal gland (CMS/HCC)
+74,D64.9,Symptomatic anemia
+74,I82.422,Acute deep vein thrombosis (DVT) of iliac vein of left lower extremity (CMS/HCC)
+74,C34.90,Primary malignant neoplasm of lung with metastasis to brain (CMS/HCC)
+76,K43.5,Parastomal hernia
+76,I26.09,Acute pulmonary embolism with acute cor pulmonale (CMS/HCC)
+76,F05,"Delirium due to another medical condition, acute, hyperactive"
+76,G89.18,Post procedure discomfort
+76,M25.619,Decreased range of motion (ROM) of shoulder
+79,Z51.11,Encounter for chemotherapy management
+80,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+81,G89.18,Acute post-operative pain
+82,A41.9,Sepsis (CMS/HCC)
+82,M84.521A,Pathological fracture of right humerus due to neoplastic disease
+83,R11.2,Severe nausea and vomiting
+83,C34.90,Lung cancer metastatic to bone (CMS/HCC)
+83,M54.40,Acute midline low back pain with sciatica
+83,E03.2,Hypothyroidism due to medication
+83,F43.21,Situational depression
+83,A41.9,Sepsis (CMS/HCC)
+83,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+84,E03.2,Hypothyroidism due to medication
+84,R52,Pain crisis
+84,H35.81,Retinal edema of both eyes
+84,Z45.018,Encounter for management of temporary pacemaker
+84,I89.0,Lymphedema of left lower extremity
+84,A41.9,Sepsis (CMS/HCC)
+84,M79.89,Left leg swelling
+85,C43.72,Malignant melanoma of left heel (CMS/HCC)
+85,C43.71,Malignant melanoma of right lower leg (CMS/HCC)
+85,S73.199A,Labral tear of hip joint
+85,R11.2,Intractable vomiting with nausea
+86,N39.0,Urinary tract infection without hematuria
+87,Z92.89,History of immunotherapy
+87,M76.892,Hamstring tendinitis of left thigh
+87,N52.9,Vasculogenic erectile dysfunction
+88,G89.18,Acute post-operative pain
+88,I82.622,Acute deep vein thrombosis (DVT) of left upper extremity (CMS/HCC)
+89,F06.4,Anxiety disorder due to general medical condition
+89,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+91,S22.000A,Closed compression fracture of thoracic vertebra (CMS/HCC)
+91,Z71.89,Complex care coordination
+92,Z98.890,Status post neck dissection
+92,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+93,M54.9,Chronic bilateral back pain
+94,M54.5,Chronic bilateral low back pain
+96,C44.212,Basal cell carcinoma of right ear
+96,Z72.0,Currently attempting to quit smoking
+96,C43.62,Malignant melanoma of left forearm (CMS/HCC)
+96,Z98.890,History of lymph node dissection of right axilla
+96,C50.919,Metastatic breast cancer (CMS/HCC)
+96,Z48.89,Postoperative visit
+98,D49.89,Neoplasm of lower extremity
+98,I67.89,Radiation therapy induced brain necrosis
+98,C34.80,"Malignant neoplasm of overlapping sites of lung, unspecified laterality (CMS/HCC)"
+98,H52.03,"Hyperopia with astigmatism and presbyopia, bilateral"
+98,E03.2,Hypothyroidism due to medication
+98,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+98,R94.8,Abnormal positron emission tomography (PET) scan
+98,R53.83,Fatigue due to treatment
+99,T73.3XXA,Fatigue due to excessive exertion
+99,N18.3,"Chronic renal failure, stage 3 (moderate) (CMS/HCC)"
+99,E66.01,Severe obesity (BMI 35.0-39.9) with comorbidity (CMS/HCC)
+101,D64.81,Antineoplastic chemotherapy induced anemia
+102,H02.412,"Acquired mechanical ptosis of eyelid, left"
+103,C34.91,Malignant neoplasm of both lungs (CMS/HCC)
+104,J18.9,Pneumonia due to infectious organism
+104,N17.9,Acute renal failure superimposed on stage 3 chronic kidney disease (CMS/HCC)
+104,T18.108A,Impacted esophageal foreign body
+104,N18.1,"Chronic kidney disease (CKD) stage G1/A3, glomerular filtration rate (GFR) equal to or greater than 90 mL/min/1.73 square meter and albuminuria creatinine ratio greater than 300 mg/g"
+104,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+105,E66.9,Class 2 obesity in adult
+105,C44.719,Basal cell carcinoma of left lower leg
+105,E11.9,Diabetes (CMS/HCC)
+105,I47.2,Ventricular tachycardia seen on cardiac monitor (CMS/HCC)
+105,H25.813,"Combined form of age-related cataract, both eyes"
+105,M25.50,Joint pain following chemotherapy
+105,H65.91,"Middle ear effusion, right"
+106,F32.9,Depressed mood
+106,Z98.890,Status post neck dissection
+106,M48.56XA,Non-traumatic compression fracture of L3 lumbar vertebra (CMS/HCC)
+106,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+107,M54.5,Chronic low back pain without sciatica
+107,C34.92,Primary adenocarcinoma of left lung (CMS/HCC)
+107,H43.393,"Vitreous syneresis, bilateral"
+108,C79.51,Secondary malignancy of rib (CMS/HCC)
+108,R79.89,Low serum vitamin D
+108,C79.31,Secondary malignancy of cerebrum (CMS/HCC)
+109,M50.20,Protrusion of cervical intervertebral disc
+109,C77.1,Malignant neoplasm metastatic to intrathoracic lymph node (CMS/HCC)
+111,C43.9,Recurrent malignant melanoma of skin (CMS/HCC)
+112,R63.6,Underweight due to inadequate caloric intake
+113,R51,Headache
+113,G89.18,Post procedure discomfort
+113,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+115,I30.0,Idiopathic pericarditis
+116,M84.553A,Pathological fracture of femur due to neoplastic disease (CMS/HCC)
+117,G62.0,Chemotherapy-induced peripheral neuropathy (CMS/HCC)
+118,Z85.89,Personal history of malignant neoplasm of other organs and systems
+118,C64.2,"Urothelial carcinoma of kidney, left (CMS/HCC)"
+119,F41.8,Anxiety about health
+119,T45.1X5A,Adverse effect of chemotherapy
+119,Z98.890,S/P kyphoplasty
+120,E03.2,Hypothyroidism due to medication
+121,J96.01,Acute respiratory failure with hypoxia and hypercarbia (CMS/HCC)
+121,Z43.6,Attention to nephrostomy (CMS/HCC)
+122,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+122,C79.31,Metastatic melanoma of brain
+122,M25.511,Pain and swelling of right shoulder
+122,R19.7,"Diarrhea, unspecified"
+123,C81.18,Nodular sclerosis Hodgkin lymphoma of lymph nodes of multiple regions (CMS/HCC)
+123,E11.3299,Background diabetic retinopathy associated with type 2 diabetes mellitus (CMS/HCC)
+123,C34.92,"Non-small cell carcinoma of left lung, stage 4 (CMS/HCC)"
+123,I82.429,Deep vein thrombosis (DVT) of iliofemoral vein (CMS/HCC)
+123,G89.18,Post procedure discomfort
+123,M89.9,Lesion of pelvic bone
+123,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+124,A41.1,Sepsis due to coagulase-negative staphylococcal infection with metabolic encephalopathy (CMS/HCC)
+124,Z79.899,Current use of proton pump inhibitor
+124,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+124,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+124,J18.1,Pneumonia of left upper lobe due to infectious organism (CMS/HCC)
+124,F41.8,Anxiety about health
+125,Z92.89,History of immunotherapy
+125,A41.9,Sepsis (CMS/HCC)
+125,M54.5,Chronic midline low back pain without sciatica
+126,C43.59,Malignant melanoma of abdomen (CMS/HCC)
+126,E03.8,Other specified hypothyroidism
+128,R41.82,"Altered mental status, unspecified"
+128,C34.91,Adenocarcinoma of right lung (CMS/HCC)
+129,K52.1,Drug-induced enteritis
+129,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+129,R06.00,Acute dyspnea
+129,K81.1,Xanthogranulomatous cholecystitis
+129,Z98.890,History of laser refractive surgery
+129,E11.42,"Type 2 diabetes mellitus with diabetic polyneuropathy, without long-term current use of insulin (CMS/HCC)"
+130,M19.011,Primary osteoarthritis of both shoulders
+131,M25.551,Pain of right hip
+131,R93.1,Decreased cardiac ejection fraction
+131,R59.1,Lymphadenopathy of head and neck
+131,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+131,I82.4Y1,Deep vein thrombosis (DVT) of proximal vein of right lower extremity (CMS/HCC)
+131,C44.41,Basal cell carcinoma (BCC) of head
+131,Z51.11,Encounter for chemotherapy management
+133,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+133,E11.9,"Controlled type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+133,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+133,H43.811,"PVD (posterior vitreous detachment), right"
+133,I10,Essential hypertension with goal blood pressure less than 130/80
+134,R53.83,Fatigue due to treatment
+134,Z48.89,Postoperative visit
+135,C64.1,Malignant neoplasm of right kidney (CMS/HCC)
+135,Z78.9,On tube feeding diet
+136,F42.4,Excoriation (skin-picking) disorder
+136,R11.15,Non-intractable cyclical vomiting with nausea
+136,H81.93,Peripheral vestibulopathy of both ears
+136,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+136,M84.58XA,Pathological fracture of cervical vertebra due to neoplastic disease
+136,Z79.52,Long term systemic steroid user
+136,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+136,G89.18,Post procedure discomfort
+136,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+136,E11.9,"Type 2 diabetes mellitus, without long-term current use of insulin (CMS/HCC)"
+136,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+138,C09.9,Squamous cell carcinoma of left tonsil (CMS/HCC)
+138,R91.8,Mass of upper lobe of left lung
+140,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+140,M81.8,Other osteoporosis without current pathological fracture
+140,B59,Pneumonia due to Pneumocystis jirovecii (CMS/HCC)
+140,M54.6,Chronic midline thoracic back pain
+141,M79.89,Swelling of lower extremity
+141,R23.9,Recent skin changes
+142,C82.08,Grade 1 follicular lymphoma of lymph nodes of multiple regions (CMS/HCC)
+143,C34.90,Lung cancer metastatic to bone (CMS/HCC)
+143,M06.9,Rheumatoid arthritis involving multiple sites (CMS/HCC)
+143,C69.32,Malignant melanoma of choroid of left eye (CMS/HCC)
+143,C81.98,Hodgkin lymphoma of lymph nodes of multiple regions (CMS/HCC)
+143,F33.2,"Severe episode of recurrent major depressive disorder, without psychotic features (CMS/HCC)"
+143,Z97.8,Uses feeding tube
+143,F41.9,Anxiety in cancer patient (CMS/HCC)
+143,R53.83,Other fatigue
+144,I82.621,Deep vein thrombosis (DVT) of right upper extremity (CMS/HCC)
+145,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+146,J98.09,Mucus plugging of bronchi
+148,Z68.37,"BMI 37.0-37.9, adult"
+149,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+149,Z93.1,Status post insertion of percutaneous endoscopic gastrostomy (PEG) tube (CMS/HCC)
+149,H92.12,"Ear drainage, left"
+149,N18.3,"Chronic kidney disease, stage 3 (moderate) (CMS/HCC)"
+149,Z98.890,Status post radical dissection of neck
+149,H25.9,Age-related cataract of both eyes
+149,E11.21,Diabetic nephropathy associated with type 2 diabetes mellitus (CMS/HCC)
+150,Z92.89,History of immunotherapy
+153,M79.602,Pain of left upper extremity
+154,M54.6,Left-sided thoracic back pain
+154,J18.9,Pneumonia due to infectious organism
+154,R53.83,Fatigue due to treatment
+154,E03.2,Hypothyroidism due to medication
+156,C34.91,Squamous cell carcinoma of bronchi of both lungs (CMS/HCC)
+156,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+157,R26.89,Functional gait abnormality
+157,A41.9,Sepsis (CMS/HCC)
+158,C43.72,Malignant melanoma of left lower extremity (CMS/HCC)
+158,E11.9,Diabetes (CMS/HCC)
+158,E23.6,Hypophysitis (CMS/HCC)
+159,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+160,C44.390,Microcystic adnexal carcinoma of skin of face
+161,Z51.11,Encounter for chemotherapy management
+161,R81,Glucosuria with normal serum glucose
+162,N40.1,Benign non-nodular prostatic hyperplasia with lower urinary tract symptoms
+162,E23.6,Hypophysitis (CMS/HCC)
+162,R11.2,Intractable vomiting with nausea
+162,E66.9,Class 1 obesity without serious comorbidity with body mass index (BMI) of 33.0 to 33.9 in adult
+162,E66.01,Morbid obesity due to excess calories (CMS/HCC)
+163,T45.1X5A,Adverse effect of chemotherapy
+163,J30.1,Seasonal allergic rhinitis due to pollen
+163,R63.4,Recent weight loss
+165,G93.89,Intracerebral mass
+165,D00.07,Squamous cell carcinoma in situ of lateral tongue
+165,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+165,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+170,A41.9,Severe sepsis (CMS/HCC)
+170,Z92.89,History of immunotherapy
+170,K92.1,Hematochezia due to medication
+170,C64.2,Renal cell carcinoma of left kidney (CMS/HCC)
+171,H02.833,Dermatochalasis of eyelids of both eyes
+171,K85.30,Drug-induced pancreatitis
+171,C44.91,Metastatic basal cell carcinoma (BCC)
+172,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+172,J98.09,Lesion of bronchus
+172,M54.5,Acute right-sided low back pain without sciatica
+172,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+174,J96.01,Acute respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+174,K52.1,Drug-induced enteritis
+174,A41.9,Sepsis (CMS/HCC)
+175,K59.03,Constipation due to opioid therapy
+175,L65.8,Alopecia due to cytotoxic drug
+176,A41.9,Septic shock (CMS/HCC)
+176,Z78.9,Intermittent self-catheterization of bladder
+178,C34.90,Cerebellar ataxia associated with malignant neoplasm of lung (CMS/HCC)
+178,E78.49,Other hyperlipidemia
+179,G89.18,Acute post-operative pain
+180,S43.022A,Posterior dislocation of left shoulder joint
+181,C69.41,"Malignant melanoma of iris, right (CMS/HCC)"
+182,L03.011,"Cellulitis of index finger, right"
+182,M40.14,"Other secondary kyphosis, thoracic region"
+182,C34.91,Malignant neoplasm of right lung (CMS/HCC)
+184,M15.0,Primary osteoarthritis involving multiple joints
+184,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+184,H53.462,Hemianopia of left eye
+189,T17.908A,Aspiration into airway
+189,G89.3,Pain from bone metastases (CMS/HCC)
+191,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+191,E23.6,Hypophysitis (CMS/HCC)
+192,I83.019,Venous ulcer of right leg (CMS/HCC)
+192,M15.0,Primary osteoarthritis involving multiple joints
+193,R41.840,Impaired attention
+193,Z68.37,"BMI 37.0-37.9, adult"
+194,M48.56XA,Nontraumatic compression fracture of L3 vertebra (CMS/HCC)
+194,E23.6,Hypophysitis (CMS/HCC)
+194,C79.9,Metastasis from esophageal cancer (CMS/HCC)
+194,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+194,J18.9,Pneumonia due to infectious organism
+195,I82.4Z2,Acute deep vein thrombosis (DVT) of distal end of left lower extremity (CMS/HCC)
+195,R91.8,Ground glass opacity present on imaging of lung
+195,C34.91,Primary cancer of right lung metastatic to other site (CMS/HCC)
+195,F10.230,Alcohol withdrawal seizure without complication (CMS/HCC)
+195,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+195,J95.821,Acute postoperative respiratory failure (CMS/HCC)
+195,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+196,F17.200,Heavy smoker
+196,G81.04,Flaccid hemiplegia of left nondominant side due to noncerebrovascular etiology (CMS/HCC)
+197,Z78.9,Problem with vascular access
+198,M54.5,Bilateral low back pain without sciatica
+198,Z15.09,MSH6-related Lynch syndrome (HNPCC5)
+198,Z98.890,Status post neck dissection
+198,E11.9,Diabetes (CMS/HCC)
+199,R79.89,Low serum vitamin D
+199,M27.8,Osteoradionecrosis of skull
+199,C61,Prostate cancer metastatic to bone (CMS/HCC)
+199,R51,Acute intractable headache
+201,H61.23,"Excessive cerumen in ear canal, bilateral"
+201,E11.22,"Type 2 diabetes mellitus with stage 3 chronic kidney disease, without long-term current use of insulin (CMS/HCC)"
+202,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+203,H40.002,"Glaucoma suspect, left"
+206,R51,Headache
+206,B18.2,Chronic hepatitis C without hepatic coma (CMS/HCC)
+206,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+206,Z96.652,Status post revision of total replacement of left knee
+206,G89.18,Acute post-operative pain
+206,H16.8,Exposure keratitis
+207,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+207,K92.1,Gastrointestinal hemorrhage with melena
+210,F41.8,Anxiety about health
+210,I82.411,Acute deep vein thrombosis (DVT) of femoral vein of right lower extremity (CMS/HCC)
+210,H91.92,Mild hearing loss of left ear
+210,S22.41XD,Closed fracture of multiple ribs of right side with routine healing
+210,R53.83,Fatigue due to sleep pattern disturbance
+211,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+211,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+211,G89.18,Post procedure discomfort
+211,Z51.89,Encounter for therapeutic procedure
+211,M84.551A,Pathological fracture of right femur due to neoplastic disease (CMS/HCC)
+211,R39.15,Urgency of micturition
+211,D64.9,Symptomatic anemia
+211,M79.605,Pain of left lower extremity
+211,F33.0,Mild episode of recurrent major depressive disorder (CMS/HCC)
+211,E11.8,"Type 2 diabetes mellitus with complication, without long-term current use of insulin (CMS/HCC)"
+212,E11.9,Diabetes (CMS/HCC)
+212,F41.8,Anxiety about health
+212,R36.9,Bloody discharge from penis
+212,M67.88,Achilles tendinosis of left lower extremity
+215,C34.90,Primary malignant neoplasm of lung metastatic to other site (CMS/HCC)
+215,I50.30,Heart failure with preserved ejection fraction (CMS/HCC)
+215,K21.0,Gastroesophageal reflux disease with esophagitis
+215,J15.1,Pneumonia due to Pseudomonas species (CMS/HCC)
+215,C34.92,Non-small cell cancer of left lung (CMS/HCC)
+215,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+215,L27.1,Chemotherapy-induced acral erythema
+215,C34.91,Recurrent adenocarcinoma of right lung (CMS/HCC)
+215,R79.89,Increased thyroid stimulating hormone (TSH) level
+215,E66.09,Class 1 obesity due to excess calories without serious comorbidity with body mass index (BMI) of 32.0 to 32.9 in adult
+216,H90.5,Congenital hearing loss of both ears
+216,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+216,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+216,A41.9,Septic shock (CMS/HCC)
+219,I82.401,Deep vein thrombosis (DVT) of right lower extremity (CMS/HCC)
+219,E23.6,Hypophysitis (CMS/HCC)
+219,Z71.89,Vaccine counseling
+219,G47.33,OSA treated with BiPAP
+220,Z79.52,On corticosteroid therapy
+220,C34.91,Malignant neoplasm of both lungs (CMS/HCC)
+220,Z92.29,History of anticoagulant therapy
+221,E03.2,Hypothyroidism due to medication
+221,M75.01,Adhesive capsulitis of both shoulders
+221,C34.90,Recurrent non-small cell lung cancer (NSCLC) (CMS/HCC)
+222,E07.89,Thyroid incidentaloma
+223,S22.31XA,Closed fracture of one rib of right side
+223,H11.31,Subconjunctival hemorrhage of right eye
+223,Z87.898,History of seizure
+224,R11.2,Non-intractable vomiting with nausea
+224,R63.4,Recent weight loss
+225,H25.13,Nuclear sclerosis of both eyes
+225,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+225,I87.2,Venous insufficiency of both lower extremities
+226,C34.91,Primary adenocarcinoma of right lung (CMS/HCC)
+226,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+226,C69.31,Malignant melanoma of choroid of right eye (CMS/HCC)
+227,Z97.8,Uses feeding tube
+229,Z79.52,Current use of steroid medication
+230,K92.1,Gastrointestinal hemorrhage with melena
+231,G89.3,Pain from bone metastases (CMS/HCC)
+231,S32.050A,Closed compression fracture of fifth lumbar vertebra (CMS/HCC)
+231,R22.1,Palpable mass of neck
+231,Z74.09,"Impaired functional mobility, balance, and endurance"
+232,C43.72,Malignant melanoma of left foot (CMS/HCC)
+232,K12.31,Oral mucositis (ulcerative) due to antineoplastic therapy
+232,H93.8X2,"Irritation of ear, left"
+233,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+233,I82.4Y3,Acute deep vein thrombosis (DVT) of proximal vein of both lower extremities (CMS/HCC)
+234,I89.0,Lymphedema of both lower extremities
+234,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+237,J18.9,Pneumonia due to infectious organism
+239,M67.442,Ganglion cyst of joint of finger of left hand
+239,C34.92,Primary malignant neoplasm of left lung metastatic to other site (CMS/HCC)
+239,M35.00,Sicca complex (CMS/HCC)
+239,K20.8,"Esophagitis, Los Angeles grade C"
+239,F17.210,Dependence on nicotine from cigarettes
+239,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+242,K71.9,Drug-induced liver injury
+242,I45.10,Right bundle branch block (RBBB)
+243,E11.9,Diabetes (CMS/HCC)
+243,G89.18,Post procedure discomfort
+243,J45.901,Reactive airway disease with acute exacerbation
+244,J18.1,Pneumonia of right lower lobe due to infectious organism (CMS/HCC)
+244,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+244,N40.1,Benign non-nodular prostatic hyperplasia with lower urinary tract symptoms
+244,G57.31,"Peroneal mononeuropathy, right"
+244,R06.00,Acute dyspnea
+244,Z92.89,History of immunotherapy
+247,E86.0,Dehydration due to radiation
+247,Z96.652,History of total left knee replacement
+248,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+248,C4A.30,Merkel cell carcinoma of unspecified part of face (CMS/HCC)
+249,G89.18,Acute post-operative pain
+249,A41.50,Sepsis due to gram-negative UTI (CMS/HCC)
+249,Z51.11,Encounter for chemotherapy management
+249,C79.51,Malignant melanoma metastatic to bone (CMS/HCC)
+250,Z92.3,History of external beam radiation therapy
+250,Z15.01,BRCA2 gene mutation positive in male
+250,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+250,M75.41,Rotator cuff impingement syndrome of right shoulder
+250,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+251,H16.229,Keratoconjunctivitis sicca not due to Sjogren's syndrome
+252,R11.2,Non-intractable vomiting with nausea
+252,R79.89,Low vitamin D level
+252,R52,Pain crisis
+252,Z96.89,Chest tube in place
+253,M75.92,Left supraspinatus tendonitis
+255,D12.6,Adenoma of colon
+256,R51,Headache
+256,K25.4,Gastrointestinal hemorrhage associated with gastric ulcer
+256,D31.42,Nevus of iris of left eye
+256,M75.42,Rotator cuff impingement syndrome of left shoulder
+256,H25.13,"Nuclear age-related cataract, both eyes"
+257,G89.18,Acute post-operative pain
+257,C78.01,Malignant neoplasm metastatic to both lungs (CMS/HCC)
+257,T17.908A,Aspiration into airway
+257,I50.20,Systolic dysfunction with heart failure (CMS/HCC)
+257,N18.2,Stage 2 chronic kidney disease
+257,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+257,R91.8,Mass of upper lobe of right lung
+258,I25.119,Coronary artery disease involving native coronary artery with angina pectoris (CMS/HCC)
+258,R56.9,Seizures complicating infection (CMS/HCC)
+258,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+258,C69.31,Malignant melanoma of choroid of right eye (CMS/HCC)
+259,G89.18,Post procedure discomfort
+260,M25.552,Pain of left hip joint
+260,E11.10,Diabetic ketoacidosis without coma associated with type 2 diabetes mellitus (CMS/HCC)
+261,C34.91,Local recurrence of cancer of right lung (CMS/HCC)
+262,D64.81,Antineoplastic chemotherapy induced anemia
+262,E11.8,"Type 2 diabetes mellitus with complication, without long-term current use of insulin (CMS/HCC)"
+263,N18.3,"Chronic kidney disease, stage 3 (CMS/HCC)"
+263,G89.18,Acute post-operative pain
+263,H04.202,Excessive tear production of left lacrimal gland
+264,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+264,C43.62,Malignant melanoma of left shoulder (CMS/HCC)
+264,G89.18,Acute post-operative pain
+266,I50.32,Chronic heart failure with preserved ejection fraction (CMS/HCC)
+267,R91.8,Ground glass opacity present on imaging of lung
+270,R53.83,Fatigue due to treatment
+270,E11.9,"Controlled type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+270,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+270,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+270,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+270,N47.1,Phimosis of penis
+270,M79.89,Right leg swelling
+270,C34.91,"Squamous cell lung cancer, right (CMS/HCC)"
+271,I89.0,Lymphedema of left lower extremity
+271,M15.0,Primary osteoarthritis involving multiple joints
+271,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+273,D64.9,Symptomatic anemia
+273,C43.62,Malignant melanoma of skin of left shoulder (CMS/HCC)
+274,D62,Acute blood loss as cause of postoperative anemia
+274,R06.00,Acute dyspnea
+274,L89.323,"Decubitus ulcer of left ischium, stage 3 (CMS/HCC)"
+274,K63.0,Abscess of sigmoid colon
+275,I25.119,Coronary artery disease involving native coronary artery of native heart with angina pectoris (CMS/HCC)
+275,H25.12,"Nuclear sclerosis, left"
+275,C50.912,"Invasive ductal carcinoma of breast, female, left (CMS/HCC)"
+275,G89.18,Post procedure discomfort
+275,R51,Headache
+275,T83.512A,Urinary tract infection associated with nephrostomy catheter (CMS/HCC)
+275,Z90.5,Status post nephrectomy
+275,H81.11,"BPPV (benign paroxysmal positional vertigo), right"
+276,C34.92,Small cell carcinoma of left lung (CMS/HCC)
+276,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+278,S21.101A,Open wound of right chest wall with complication
+278,Z92.89,History of immunotherapy
+278,C61,Prostate cancer metastatic to bone (CMS/HCC)
+278,C79.51,Secondary malignancy of thoracic vertebral column (CMS/HCC)
+278,E29.1,Hypogonadism in male
+278,C64.1,Clear cell carcinoma of right kidney (CMS/HCC)
+279,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+279,C34.92,Non-small cell cancer of left lung (CMS/HCC)
+279,J69.0,Aspiration pneumonia of right lower lobe (CMS/HCC)
+279,C43.62,Malignant melanoma of left shoulder (CMS/HCC)
+281,N52.1,Erectile disorder due to medical condition in male patient
+281,D03.59,Malignant melanoma in situ of skin of anterior chest (CMS/HCC)
+281,E78.49,Other hyperlipidemia
+283,E87.6,Hypokalemia due to loss of potassium
+283,M54.6,Acute bilateral thoracic back pain
+283,A41.9,Septic shock (CMS/HCC)
+283,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+283,Z86.69,History of uveitis
+284,G89.18,Acute post-operative pain
+285,E11.42,Diabetic polyneuropathy associated with type 2 diabetes mellitus (CMS/HCC)
+285,L03.119,Cellulitis of lower extremity
+285,B36.9,Fungal rash of torso
+286,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+286,Z00.6,Research subject
+287,K43.9,Hernia of anterior abdominal wall
+287,H40.51X3,"Secondary glaucoma, right, severe stage"
+287,I82.4Z9,Acute deep vein thrombosis (DVT) of distal vein of lower extremity (CMS/HCC)
+287,R11.2,Non-intractable vomiting with nausea
+287,Z00.6,Enrolled in clinical trial of drug
+287,W19.XXXD,"Accident due to mechanical fall without injury, subsequent encounter"
+287,Z98.890,History of urinary diversion procedure
+287,Z92.89,History of immunotherapy
+287,I50.30,Heart failure with preserved ejection fraction (CMS/HCC)
+287,R79.89,Cyclic citrullinated peptide (CCP) antibody positive
+288,C81.18,Nodular sclerosis Hodgkin lymphoma of lymph nodes of multiple regions (CMS/HCC)
+288,S00.11XA,Traumatic ecchymosis of right eyelid
+288,K90.9,Diarrhea due to malabsorption
+291,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+291,C43.62,Malignant melanoma of finger of left hand (CMS/HCC)
+291,M20.5X1,Acquired claw toe of right foot
+291,E03.2,Hypothyroidism due to medication
+291,Z00.6,Research study patient
+291,Z91.14,Conflicted attitude towards medication management
+293,G40.209,"Partial symptomatic epilepsy with complex partial seizures, not intractable, without status epilepticus (CMS/HCC)"
+293,E23.6,Hypophysitis (CMS/HCC)
+296,M21.6X1,Pronation deformity of both feet
+296,Z00.6,Clinical trial participant
+297,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+297,Z95.810,"ICD (implantable cardioverter-defibrillator), dual, in situ"
+299,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+300,J18.9,Pneumonia due to infectious organism
+300,C81.18,Nodular sclerosis Hodgkin lymphoma of lymph nodes of multiple regions (CMS/HCC)
+300,E03.8,Other specified hypothyroidism
+301,C66.1,Carcinoma of right ureter (CMS/HCC)
+301,J18.9,Pneumonia due to infectious organism
+301,C34.90,Recurrent non-small cell lung cancer (NSCLC) (CMS/HCC)
+301,K74.60,Cirrhosis of liver without ascites (CMS/HCC)
+301,G89.3,Chronic pain due to neoplasm
+301,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+302,C43.72,Malignant melanoma of toe of left foot (CMS/HCC)
+302,Z15.09,MLH1-related Lynch syndrome (HNPCC2)
+302,Z51.11,Encounter for chemotherapy management
+302,R51,Headache
+302,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+302,J44.9,COPD with hypoxia (CMS/HCC)
+302,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+303,I25.810,Coronary artery disease involving autologous vein coronary bypass graft without angina pectoris
+303,L03.011,"Paronychia of finger, right"
+303,J18.9,Pneumonia due to infectious organism
+305,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+305,S70.12XA,Hematoma of left thigh
+305,N39.0,Urinary tract infection with hematuria
+307,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+307,I87.301,Stasis edema of right lower extremity
+307,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+307,N93.9,Abnormal uterine bleeding (AUB)
+309,C50.912,"Cancer of left breast, stage 1 (CMS/HCC)"
+309,R51,Headache
+309,Z08,Encounter for follow-up surveillance of Merkel cell carcinoma
+309,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+314,Z87.898,History of seizure
+314,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+314,S32.010A,Closed compression fracture of first lumbar vertebra (CMS/HCC)
+317,Z98.890,Status post neck dissection
+317,Z74.09,Limited mobility
+318,C49.22,Sarcoma of left thigh (CMS/HCC)
+318,C81.08,Nodular lymphocyte predominant Hodgkin lymphoma of lymph nodes of multiple regions (CMS/HCC)
+318,A41.9,Sepsis (CMS/HCC)
+319,C79.31,Metastatic melanoma of brain
+319,E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, with long-term current use of insulin (CMS/HCC)"
+320,C50.919,Metastatic breast cancer (CMS/HCC)
+320,M60.859,Myositis of thigh
+320,R29.898,Weakness of both lower extremities
+320,G89.3,Chronic pain due to neoplasm
+320,Z92.3,History of radiation to head and neck region
+320,R51,Headache
+320,C34.92,Squamous cell carcinoma of left lung (CMS/HCC)
+322,M16.10,Primary osteoarthritis of hip
+322,K63.0,Abscess of sigmoid colon
+324,R51,Nonintractable headache
+324,Z51.11,"Chemotherapy management, encounter for"
+324,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+324,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+324,E87.70,Hypervolemia due to congestive heart failure (CMS/HCC)
+324,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+324,I83.92,Varicose veins of left lower extremity
+325,M54.6,Acute left-sided thoracic back pain
+325,M25.561,Chronic pain of both knees
+326,D64.81,Antineoplastic chemotherapy induced anemia
+327,M25.362,"Knee instability, left"
+328,M06.9,Rheumatoid arthritis (CMS/HCC)
+328,G00.3,Meningitis due to methicillin resistant Staphylococcus aureus (MRSA)
+328,N18.4,"Chronic kidney disease (CKD) stage G4/A1, severely decreased glomerular filtration rate (GFR) between 15-29 mL/min/1.73 square meter and albuminuria creatinine ratio less than 30 mg/g (CMS/HCC)"
+328,M75.42,"Rotator cuff impingement syndrome, left"
+328,C64.1,"Kidney cancer, primary, with metastasis from kidney to other site, right (CMS/HCC)"
+331,K21.0,GERD with esophagitis
+332,T81.49XA,Surgical site infection
+332,R05,Persistent cough for 3 weeks or longer
+332,J06.9,URI with cough and congestion
+332,C71.1,Frontal glioblastoma (CMS/HCC)
+332,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+332,I65.22,"Carotid stenosis, asymptomatic, left"
+332,E66.09,Obesity due to excess calories
+335,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+335,E66.09,Class 2 obesity due to excess calories in adult
+335,C50.911,"Malignant neoplasm of right breast, stage 4 (CMS/HCC)"
+336,B18.2,Chronic hepatitis C without hepatic coma (CMS/HCC)
+337,E23.6,Hypophysitis (CMS/HCC)
+337,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+337,D49.7,Incidentaloma of thyroid gland
+337,G44.89,Other headache syndrome
+337,G62.0,Chemotherapy-induced peripheral neuropathy (CMS/HCC)
+337,K59.03,Constipation due to opioid therapy
+337,H04.129,Dry eye
+337,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+338,C34.91,"Squamous cell lung cancer, right (CMS/HCC)"
+339,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+339,Z51.11,Encounter for chemotherapy management
+340,K57.92,Diverticulitis of intestine
+340,C44.91,Superficial basal cell carcinoma (BCC)
+340,C79.51,Secondary malignancy of rib (CMS/HCC)
+340,C69.92,Malignant melanoma of left eye (CMS/HCC)
+340,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+340,C61,Prostate cancer metastatic to bone (CMS/HCC)
+340,A41.9,Septic shock (CMS/HCC)
+340,D00.07,Squamous cell carcinoma in situ (SCCIS) of tongue
+341,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+341,Z97.8,Endotracheally intubated
+343,I82.402,Acute deep vein thrombosis (DVT) of left lower extremity (CMS/HCC)
+343,H52.13,Myopia of both eyes with astigmatism and presbyopia
+343,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+343,H40.1132,"Primary open angle glaucoma of both eyes, moderate stage"
+344,T82.9XXA,Complication of aortic graft
+344,I44.7,Left bundle branch block (LBBB) on electrocardiogram
+344,L03.119,Cellulitis of lower extremity
+346,Z92.3,History of external beam radiation therapy
+346,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+346,G44.209,Acute non intractable tension-type headache
+346,M54.42,Acute left-sided low back pain with left-sided sciatica
+347,Z51.11,Encounter for chemotherapy management
+347,Z99.81,Requires oxygen therapy
+349,Z78.9,Paced rhythm on cardiac monitor
+349,E11.9,Diet-controlled diabetes mellitus (CMS/HCC)
+349,R68.2,"Dry mouth, unspecified"
+350,Z95.5,History of coronary artery stent placement
+351,M54.42,Acute midline low back pain with bilateral sciatica
+351,C34.31,Malignant neoplasm of lower lobe of right lung (CMS/HCC)
+351,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+352,G56.11,Right median nerve neuropathy
+352,E87.6,Hypokalemia due to loss of potassium
+352,R36.9,"Urethral discharge in male, with blood"
+353,J45.909,Cold-induced asthma without complication
+353,C81.12,Nodular sclerosis Hodgkin lymphoma of intrathoracic lymph nodes (CMS/HCC)
+353,C64.1,Malignant neoplasm of right kidney (CMS/HCC)
+354,Z79.52,On prednisone therapy
+355,A41.9,Septic shock (CMS/HCC)
+355,C34.91,"Non-small cell carcinoma of right lung, stage 4 (CMS/HCC)"
+356,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+357,G89.18,Acute post-operative pain
+357,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+359,H25.13,Nuclear sclerosis of both eyes
+359,J12.1,Pneumonia due to respiratory syncytial virus (RSV)
+359,I27.82,Other chronic pulmonary embolism with acute cor pulmonale (CMS/HCC)
+361,A41.9,Sepsis (CMS/HCC)
+362,K90.9,Diarrhea due to malabsorption
+363,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+363,R53.83,Fatigue due to treatment
+365,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+365,H43.393,Vitreous syneresis of both eyes
+365,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+365,C34.90,EGFR-related lung cancer (CMS/HCC)
+365,S61.402A,Open wound of left hand with complication
+365,C79.51,Malignant melanoma metastatic to bone (CMS/HCC)
+365,C34.90,Non-small cell lung cancer with metastasis (CMS/HCC)
+366,Z95.2,S/P TAVR (transcatheter aortic valve replacement)
+366,G89.18,Post procedure discomfort
+366,C61,Prostate cancer metastatic to intraabdominal lymph node (CMS/HCC)
+366,C79.51,Secondary malignancy of vertebral column (CMS/HCC)
+366,J38.01,"Vocal fold paralysis, left"
+367,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+371,E66.3,Overweight
+371,N40.0,Benign non-nodular prostatic hyperplasia
+371,G89.18,Acute post-operative pain
+372,R79.89,Low vitamin D level
+372,G89.18,Post procedure discomfort
+373,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+373,A41.9,Sepsis (CMS/HCC)
+374,R29.898,Weakness of left lower extremity
+374,G89.3,Pain from bone metastases (CMS/HCC)
+374,E23.0,Hypogonadotropic hypogonadism in male (CMS/HCC)
+374,G89.18,Post procedure discomfort
+376,I61.0,Nontraumatic subcortical hemorrhage of cerebral hemisphere (CMS/HCC)
+376,Z08,Encounter for follow-up surveillance of Merkel cell carcinoma
+377,E46,Malnutrition compromising bodily function (CMS/HCC)
+377,Z92.89,History of immunotherapy
+378,I82.402,Acute deep vein thrombosis (DVT) of left lower extremity (CMS/HCC)
+378,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+378,L89.321,"Decubitus ulcer of left ischium, stage 1"
+378,M54.41,Bilateral low back pain with right-sided sciatica
+379,C34.91,"Lung cancer, primary, with metastasis from lung to other site, right (CMS/HCC)"
+379,Z29.8,Encounter for immunotherapy
+380,M54.5,Acute right-sided low back pain without sciatica
+381,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+381,C44.622,Squamous cell cancer of skin of right forearm
+381,G89.18,Post procedure discomfort
+381,Z87.19,History of melena
+382,C69.41,"Malignant melanoma of ciliary body, right (CMS/HCC)"
+382,E66.09,Non morbid obesity due to excess calories
+383,I63.9,Recurrent strokes (CMS/HCC)
+384,C34.92,Primary malignant neoplasm of left lung metastatic to other site (CMS/HCC)
+385,B00.9,"Oral herpes simplex, not currently active"
+385,M54.5,Chronic right-sided low back pain without sciatica
+385,C34.32,Malignant neoplasm of lower lobe of left lung (CMS/HCC)
+386,L30.8,Interstitial granulomatous dermatitis
+386,M54.5,Acute bilateral low back pain without sciatica
+386,G89.18,Acute post-operative pain
+386,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+386,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+387,E11.9,Diabetes (CMS/HCC)
+387,C34.91,"Lung cancer, primary, with metastasis from lung to other site, right (CMS/HCC)"
+387,Z95.810,ICD (implantable cardioverter-defibrillator) in place
+387,D64.81,Antineoplastic chemotherapy induced anemia
+387,M54.5,Chronic bilateral low back pain without sciatica
+387,R91.1,Nodule of apex of right lung
+388,B35.3,Tinea pedis of both feet
+388,C81.12,Nodular sclerosis Hodgkin lymphoma of intrathoracic lymph nodes (CMS/HCC)
+388,I82.402,Acute deep vein thrombosis (DVT) of left lower extremity (CMS/HCC)
+389,J45.909,Cold-induced asthma without complication
+392,Z53.09,Contraindication to anticoagulation therapy
+392,N40.1,Benign nodular prostatic hyperplasia with lower urinary tract symptoms
+393,C34.91,Small cell carcinoma of right lung (CMS/HCC)
+394,R11.2,Non-intractable vomiting with nausea
+395,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+397,C34.31,Malignant neoplasm of lower lobe of right lung (CMS/HCC)
+399,G89.18,Acute post-operative pain
+403,F17.201,"Tobacco use disorder, severe, in early remission"
+403,R79.89,Reactive thrombocytosis
+406,R53.83,Fatigue due to treatment
+407,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+408,C78.01,Malignant neoplasm metastatic to both lungs (CMS/HCC)
+408,Z78.9,Admitted with dehydration
+408,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+408,Z92.89,History of immunotherapy
+409,K74.3,Primary biliary cholangitis (CMS/HCC)
+409,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+409,Z98.890,Status post neck dissection
+409,C50.912,"Malignant neoplasm of left breast, stage 1, estrogen receptor positive (CMS/HCC)"
+409,Z99.81,Dependence on nocturnal oxygen therapy
+410,E66.01,Severe obesity (BMI 35.0-39.9) with comorbidity (CMS/HCC)
+412,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+413,R91.8,Mass of lower lobe of left lung
+415,R91.8,Lung infiltrate on CT
+415,Z92.89,History of immunotherapy
+415,B35.3,Tinea pedis of both feet
+415,I26.99,Pulmonary embolism without acute cor pulmonale (CMS/HCC)
+415,J18.1,Pneumonia of right middle lobe due to infectious organism (CMS/HCC)
+415,H52.13,Myopia with presbyopia of both eyes
+415,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+415,M25.561,Chronic pain of both knees
+416,C84.A8,Cutaneous T-cell lymphoma involving lymph nodes of multiple regions (CMS/HCC)
+416,J18.9,Multifocal pneumonia
+417,C34.92,"Adenocarcinoma of left lung, stage 4 (CMS/HCC)"
+417,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+417,N13.2,Hydronephrosis due to obstruction of ureter
+418,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+418,F33.0,Mild episode of recurrent major depressive disorder (CMS/HCC)
+418,E03.2,Hypothyroidism due to medication
+419,C78.02,Secondary renal cell carcinoma of left lung (CMS/HCC)
+419,I82.5Z1,Chronic deep vein thrombosis (DVT) of distal vein of right lower extremity (CMS/HCC)
+420,D47.2,IgG lambda monoclonal gammopathy
+420,E08.10,Diabetic ketoacidosis without coma associated with diabetes mellitus due to underlying condition (CMS/HCC)
+420,Z92.89,History of immunotherapy
+420,C34.90,Lung cancer metastatic to brain (CMS/HCC)
+421,E11.65,"Type 2 diabetes mellitus with hyperglycemia, with long-term current use of insulin (CMS/HCC)"
+421,C84.A0,CTCL (cutaneous T-cell lymphoma) (CMS/HCC)
+421,Z08,Encounter for follow-up examination after completed treatment for cancer
+421,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+421,C64.9,Collecting duct carcinoma of kidney (CMS/HCC)
+421,I26.99,Other pulmonary embolism without acute cor pulmonale (CMS/HCC)
+422,I44.7,Left bundle branch block (LBBB) on electrocardiogram
+423,G89.18,Post procedure discomfort
+423,M1A.9XX0,Chronic gout involving toe of right foot without tophus
+424,H04.203,Excessive tear production of both lacrimal glands
+425,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+425,R94.31,Prolongation of QRS complex on electrocardiography
+426,E11.9,Diabetes (CMS/HCC)
+426,I82.403,Deep vein thrombosis (DVT) of both lower extremities (CMS/HCC)
+426,J13,Community acquired pneumonia due to Pneumococcus (CMS/HCC)
+426,H25.11,"Nuclear sclerosis, right"
+426,K57.91,Gastrointestinal hemorrhage associated with intestinal diverticulosis
+426,R22.0,Mild tongue swelling
+426,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+426,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+426,Z98.890,History of ileal conduit
+426,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+427,R11.2,Non-intractable vomiting with nausea
+428,G47.39,Sleep apnea-like behavior
+428,Z51.11,Encounter for chemotherapy management
+428,C77.3,Malignant neoplasm metastatic to lymph node of axilla (CMS/HCC)
+430,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+430,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+430,M79.89,Swelling of both lower extremities
+431,R11.0,Severe nausea following anesthesia
+432,G89.18,Acute post-operative pain
+433,C43.72,Malignant melanoma of left foot (CMS/HCC)
+435,E11.319,Type 2 diabetes mellitus with retinopathy (CMS/HCC)
+435,I63.9,Focal infarction of brain (CMS/HCC)
+435,Z00.6,Clinical trial participant
+436,D61.810,Antineoplastic chemotherapy induced pancytopenia (CMS/HCC)
+436,H43.393,Vitreous floaters of both eyes
+436,I48.91,Atrial fibrillation and flutter (CMS/HCC)
+436,Z92.3,History of external beam radiation therapy
+436,G89.3,Chronic pain due to neoplasm
+436,I25.10,Coronary artery disease involving native coronary artery
+436,H81.10,BPV (benign positional vertigo)
+436,I26.99,Pulmonary embolism without acute cor pulmonale (CMS/HCC)
+436,L03.119,Cellulitis of lower extremity
+438,D09.9,Squamous cell carcinoma in situ (SCCIS)
+438,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+438,Z92.241,History of recent steroid use
+438,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+438,M05.79,Rheumatoid arthritis involving multiple sites with positive rheumatoid factor (CMS/HCC)
+439,E11.69,Hyperlipidemia associated with type 2 diabetes mellitus (CMS/HCC)
+440,K94.19,Altered bowel elimination due to intestinal ostomy (CMS/HCC)
+441,G56.21,Ulnar neuropathy at elbow of right upper extremity
+441,C34.91,"Non-small cell carcinoma of right lung, stage 3 (CMS/HCC)"
+441,Z74.09,Decreased ambulation status
+442,M25.561,Chronic pain of both knees
+444,C34.90,Lung cancer metastatic to brain (CMS/HCC)
+444,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+445,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+446,H01.00A,Blepharitis of upper and lower eyelids of both eyes
+448,M06.061,Rheumatoid arthritis involving both knees with negative rheumatoid factor (CMS/HCC)
+448,R74.8,Blood alkaline phosphatase increased compared with prior measurement
+448,M15.0,Primary osteoarthritis involving multiple joints
+450,Z96.641,Status post total replacement of right hip
+450,I99.8,Critical ischemia of lower extremity
+452,H53.461,"Homonymous hemianopia, right"
+452,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+452,K25.5,"Gastric perforation, chronic or unspecified (CMS/HCC)"
+453,E66.9,Obesity with body mass index of 30.0-39.9
+453,Z92.89,History of immunotherapy
+453,J96.01,Acute respiratory failure with hypoxia and hypercarbia (CMS/HCC)
+453,R20.0,Numbness of left lower extremity
+455,H93.13,Bilateral tinnitus
+455,G89.18,Acute post-operative pain
+455,Z92.89,History of immunotherapy
+455,I82.622,Acute deep vein thrombosis (DVT) of brachial vein of left upper extremity (CMS/HCC)
+455,Z98.890,Status post neck dissection
+455,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+456,M76.899,Hip flexor tendinitis
+456,G89.18,Acute post-operative pain
+456,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+456,Z78.9,On tube feeding diet
+458,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+459,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+460,N12,Interstitial nephritis determined by biopsy
+460,I71.4,Abdominal aortic aneurysm (AAA) (CMS/HCC)
+461,M51.36,Degeneration of intervertebral disc of lumbar region
+462,M54.5,Chronic bilateral low back pain without sciatica
+462,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+462,A41.9,Sepsis (CMS/HCC)
+462,K71.9,Drug-induced liver injury
+462,C03.1,Cancer of alveolus of mandible (CMS/HCC)
+462,Z51.11,Encounter for chemotherapy management
+463,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+463,E11.65,Hyperglycemia due to type 2 diabetes mellitus (CMS/HCC)
+464,C77.2,Secondary malignancy of retroperitoneal lymph nodes (CMS/HCC)
+464,R91.8,Mass of upper lobe of right lung
+464,F32.2,"Severe single current episode of major depressive disorder, without psychotic features (CMS/HCC)"
+465,J39.2,Pharyngeal swelling
+465,R00.1,Sinus bradycardia seen on cardiac monitor
+465,J18.9,Pneumonia due to infectious organism
+465,C77.0,Malignant neoplasm metastatic to lymph node of neck (CMS/HCC)
+465,C43.71,Malignant melanoma of right foot (CMS/HCC)
+467,E23.6,Hypophysitis (CMS/HCC)
+467,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+467,C43.71,Malignant melanoma of right thigh (CMS/HCC)
+467,R11.15,Intractable cyclical vomiting with nausea
+468,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+468,Z87.898,History of palpitations
+468,Z98.890,History of gastric surgery
+468,F41.8,Anxiety about health
+468,I82.441,Acute deep vein thrombosis (DVT) of tibial vein of right lower extremity (CMS/HCC)
+468,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+468,Z79.52,Current use of steroid medication
+468,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+471,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+471,K90.9,Diarrhea due to malabsorption
+471,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+473,R59.1,Lymphadenopathy of head and neck
+473,C34.92,"Adenocarcinoma of lung, left (CMS/HCC)"
+473,C34.92,"Lung cancer, primary, with metastasis from lung to other site, left (CMS/HCC)"
+474,C34.31,Malignant neoplasm of lower lobe of right lung (CMS/HCC)
+475,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+475,E66.01,Morbid (severe) obesity due to excess calories (CMS/HCC)
+475,C79.31,Metastatic melanoma of brain
+475,C64.9,Primary malignant neoplasm of kidney with metastasis from kidney to other site (CMS/HCC)
+475,I26.99,Pulmonary embolism during current hospitalization (CMS/HCC)
+475,C61,Prostate cancer metastatic to liver (CMS/HCC)
+476,I50.20,"Systolic congestive heart failure, NYHA class 1 (CMS/HCC)"
+476,K21.0,GERD with esophagitis
+476,C79.9,Metastasis from cancer of tongue (CMS/HCC)
+476,R51,Headache
+477,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+478,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+479,C34.92,Adenosquamous carcinoma of left lung (CMS/HCC)
+479,G89.18,Post procedure discomfort
+479,K21.0,GERD with esophagitis
+479,Z98.890,History of urinary diversion procedure
+479,Z93.1,Gastrointestinal tube present (CMS/HCC)
+480,C50.911,"Breast cancer, stage 2, right (CMS/HCC)"
+481,N40.1,Urinary hesitancy due to benign prostatic hyperplasia
+481,Z00.6,Clinical trial participant
+484,M79.652,Pain of left lateral upper thigh
+484,M54.5,Midline low back pain without sciatica
+486,C64.2,Renal cell carcinoma of left kidney (CMS/HCC)
+487,R91.8,Opacity of lung on imaging study
+487,M25.511,Acute pain of right shoulder
+488,N18.3,"Chronic kidney disease (CKD) stage G3a/A3, moderately decreased glomerular filtration rate (GFR) between 45-59 mL/min/1.73 square meter and albuminuria creatinine ratio greater than 300 mg/g (CMS/HCC)"
+491,Z91.89,At risk for ineffective coping
+491,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+491,I82.A11,Acute deep vein thrombosis (DVT) of axillary vein of right upper extremity (CMS/HCC)
+491,C79.71,Malignant neoplasm metastatic to right adrenal gland (CMS/HCC)
+491,C34.90,Stage 4 lung cancer (CMS/HCC)
+491,I82.421,Deep vein thrombosis (DVT) of iliac vein of right lower extremity (CMS/HCC)
+492,I67.89,Radiation therapy induced brain necrosis
+493,Z98.890,Status post incision and drainage
+493,M11.232,Pseudogout of left wrist
+493,I25.709,Coronary artery disease involving coronary bypass graft of native heart with angina pectoris (CMS/HCC)
+495,Z79.52,Long term (current) use of systemic steroids
+495,T14.8XXA,Infection of hematoma of wound
+496,J96.20,Acute on chronic respiratory failure (CMS/HCC)
+496,G93.89,Mass of left temporal lobe
+496,I82.622,Acute deep vein thrombosis (DVT) of left upper extremity (CMS/HCC)
+496,N39.0,Urinary tract infection without hematuria
+496,G89.18,Post procedure discomfort
+496,M25.512,Acute pain of left shoulder
+496,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+496,C64.1,Renal cell carcinoma of right kidney (CMS/HCC)
+496,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+499,Z98.1,S/P fusion of thoracic spine
+500,Z00.6,Clinical trial participant
+501,T82.868A,Thrombosis involving vascular device (CMS/HCC)
+501,Z00.6,Research study patient
+501,J15.211,Pneumonia of both lungs due to methicillin susceptible Staphylococcus aureus (MSSA) (CMS/HCC)
+501,T84.010A,Failure of right total hip arthroplasty (CMS/HCC)
+502,C34.91,Adenocarcinoma of right lung (CMS/HCC)
+502,C43.62,Malignant melanoma of left upper arm (CMS/HCC)
+502,M17.10,Osteoarthrosis involving lower leg
+502,Z79.52,Current use of steroid medication
+502,E66.2,Morbid obesity with alveolar hypoventilation (CMS/HCC)
+502,C34.92,"Non-small cell lung cancer, left (CMS/HCC)"
+503,R51,Headache
+504,C61,Prostate cancer metastatic to intrapelvic lymph node (CMS/HCC)
+504,G89.18,Post procedure discomfort
+505,C78.5,Malignant neoplasm metastatic to sigmoid colon with unknown primary site (CMS/HCC)
+505,N18.3,"Chronic kidney disease, stage 3 (CMS/HCC)"
+505,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+505,E11.9,"Type 2 diabetes mellitus, without long-term current use of insulin (CMS/HCC)"
+506,I82.4Z9,Acute deep vein thrombosis (DVT) of distal vein of lower extremity (CMS/HCC)
+506,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+506,M54.42,Chronic bilateral low back pain with bilateral sciatica
+507,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+507,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+507,Z98.890,Status post neck dissection
+507,K59.03,Constipation due to opioid therapy
+507,E11.9,"Controlled type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+507,G89.18,Post procedure discomfort
+509,C34.92,Adenocarcinoma of left lung (CMS/HCC)
+509,C34.92,Adenocarcinoma of left lung (CMS/HCC)
+510,K21.9,Chronic GERD
+510,C64.1,Transitional cell carcinoma of right kidney (CMS/HCC)
+511,R10.9,Right-sided abdominal pain of unknown cause
+511,M54.5,Chronic bilateral low back pain without sciatica
+513,Z71.89,Encounter for hospice care discussion
+513,I82.411,Acute deep vein thrombosis (DVT) of femoral vein of right lower extremity (CMS/HCC)
+513,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+514,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+514,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+514,I26.99,Other pulmonary embolism without acute cor pulmonale (CMS/HCC)
+516,Z97.8,Endotracheally intubated
+516,A41.9,Sepsis (CMS/HCC)
+516,N18.3,"Chronic renal insufficiency, stage 3 (moderate) (CMS/HCC)"
+517,C19,Metastatic colorectal cancer (CMS/HCC)
+517,B30.8,Chronic viral conjunctivitis of right eye
+517,Z96.0,Status post placement of ureteral stent
+517,R20.8,Burning sensation of skin
+518,Z15.01,Monoallelic mutation of PALB2 gene
+520,R79.89,Cyclic citrullinated peptide (CCP) antibody positive
+520,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+520,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+521,C50.911,"Cancer of right breast, stage 3 (CMS/HCC)"
+521,I26.99,Other pulmonary embolism without acute cor pulmonale (CMS/HCC)
+522,M54.5,Bilateral low back pain without sciatica
+522,G89.3,Pain due to malignant neoplasm metastatic to bone (CMS/HCC)
+523,G89.18,Acute post-operative pain
+523,G89.3,Pain from bone metastases (CMS/HCC)
+523,R60.9,Acute edema
+523,I48.91,Atrial fibrillation and flutter (CMS/HCC)
+524,S30.1XXA,"Rectus sheath hematoma, initial encounter"
+524,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+524,R76.8,Anti-Smith (anti-Sm) antibody and antiribonuclear protein (anti-RNP) antibody positive
+524,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+524,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+524,R93.89,Endometrial thickening on ultrasound
+524,C66.1,Carcinoma of right ureter (CMS/HCC)
+525,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+525,R29.898,Weakness of extremity
+525,R51,Headache
+525,C43.59,Malignant melanoma of upper back (CMS/HCC)
+526,Z15.09,Monoallelic mutation of BAP1 gene
+526,H11.32,Subconjunctival hemorrhage of left eye
+527,M16.9,"Labral tear of hip, degenerative"
+527,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+527,C43.59,Malignant melanoma of upper back (CMS/HCC)
+527,J18.9,Multifocal pneumonia
+527,E66.9,Class 2 obesity in adult
+527,Z86.19,History of surgical site infection
+527,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+527,M54.32,Left sciatic nerve pain
+527,I89.0,Lymphedema of both lower extremities
+527,G89.18,Acute post-operative pain
+527,Z00.6,Patient in clinical research study
+527,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+527,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+527,C78.01,Malignant neoplasm metastatic to both lungs (CMS/HCC)
+527,T84.018D,"Failed total hip arthroplasty, subsequent encounter"
+527,D25.1,Intramural and subserous leiomyoma of uterus
+529,C78.7,Secondary malignant neoplasm of liver and intrahepatic bile duct (CMS/HCC)
+529,E03.8,Other specified hypothyroidism
+532,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+532,Z98.890,S/P aneurysm repair
+532,C71.1,Anaplastic astrocytoma of both frontal lobes (CMS/HCC)
+533,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+533,M54.40,Low back pain with radiation
+534,R20.2,Paresthesia of both feet
+534,E03.8,Other specified hypothyroidism
+534,K59.03,Constipation due to opioid therapy
+534,I50.22,Chronic systolic (congestive) heart failure (CMS/HCC)
+536,J18.9,Pneumonia of both lungs due to infectious organism
+536,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+537,K83.1,Obstructive jaundice due to cancer (CMS/HCC)
+537,C69.91,Malignant melanoma of right eye (CMS/HCC)
+537,C43.59,Malignant melanoma of upper back (CMS/HCC)
+537,R53.83,Other fatigue
+538,E11.42,Diabetic polyneuropathy associated with type 2 diabetes mellitus (CMS/HCC)
+538,C79.71,Malignant neoplasm metastatic to right adrenal gland (CMS/HCC)
+538,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+538,R59.0,Enlarged lymph node in neck
+539,L98.9,Abnormal skin morphology determined by biopsy
+539,M79.604,Pain of right lower extremity
+540,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+540,Z87.19,History of Barrett's esophagus
+541,Z92.89,History of immunotherapy
+541,C69.32,Malignant melanoma of choroid of left eye (CMS/HCC)
+543,I63.439,Cerebrovascular accident (CVA) due to embolism of posterior cerebral artery (CMS/HCC)
+543,I82.431,Deep vein thrombosis (DVT) of popliteal vein of right lower extremity (CMS/HCC)
+543,C34.90,Primary malignant neoplasm of lung metastatic to other site (CMS/HCC)
+543,Z95.5,S/P right coronary artery (RCA) stent placement
+543,C77.3,Malignant neoplasm metastatic to lymph node of axilla (CMS/HCC)
+544,Z92.3,Status post gamma knife treatment
+544,G89.18,Acute post-operative pain
+544,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+545,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+545,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+545,Z98.890,S/P right rotator cuff repair
+545,T83.098A,Obstruction of urinary catheter (CMS/HCC)
+546,Z98.890,History of ileal conduit
+546,G89.18,Acute post-operative pain
+546,Z96.652,Status post total left knee replacement
+548,G89.3,Chronic pain due to neoplasm
+548,C44.90,Primary adnexal carcinoma of skin
+549,B59,Pneumonia due to Pneumocystis jirovecii (CMS/HCC)
+549,E03.2,Hypothyroidism due to medication
+549,I25.810,Coronary artery disease involving coronary bypass graft of native heart without angina pectoris
+551,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+551,G89.18,Acute post-operative pain
+551,R51,Headache
+552,Z96.21,Status post placement of bone anchored hearing aid (BAHA)
+552,I87.2,Venous stasis dermatitis of both lower extremities
+552,N40.1,Benign non-nodular prostatic hyperplasia with lower urinary tract symptoms
+552,J96.21,Acute on chronic respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+553,M25.561,Chronic pain of both knees
+553,J18.9,Inflammation of lung
+553,R50.9,Fever determined by examination
+553,R53.83,Fatigue due to treatment
+553,M54.5,Bilateral low back pain without sciatica
+556,C78.01,Malignant neoplasm metastatic to both lungs (CMS/HCC)
+556,T82.7XXA,Vascular graft infection (CMS/HCC)
+556,I89.0,Lymphedema of left upper extremity
+556,C34.91,Stage IV squamous cell carcinoma of right lung (CMS/HCC)
+556,C64.2,"Renal cell carcinoma, left (CMS/HCC)"
+557,R22.41,"Localized swelling, mass, or lump of lower extremity, right"
+558,M54.5,Bilateral low back pain without sciatica
+558,R63.8,Inadequate oral nutritional intake
+559,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+559,E03.2,Hypothyroidism due to medication
+560,A41.9,Sepsis (CMS/HCC)
+560,M25.60,Decreased range of motion
+560,R09.02,Postoperative hypoxia
+560,E66.01,Severe obesity (BMI 35.0-39.9) with comorbidity (CMS/HCC)
+561,K12.31,Oral mucositis (ulcerative) due to antineoplastic therapy
+561,L89.153,"Pressure injury of sacral region, stage 3 (CMS/HCC)"
+563,M54.41,Chronic right-sided low back pain with right-sided sciatica
+563,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+564,C78.7,Secondary malignant neoplasm of liver and intrahepatic bile duct (CMS/HCC)
+564,G45.1,Hemispheric carotid artery syndrome
+564,I82.401,Acute deep vein thrombosis (DVT) of right lower extremity (CMS/HCC)
+564,R93.89,Abnormal results on imaging study of genitourinary system
+564,E11.8,"Type 2 diabetes mellitus with complication, without long-term current use of insulin (CMS/HCC)"
+565,R58,Acute bleeding
+566,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+566,S41.102A,Wound of left upper extremity
+566,M54.5,Chronic bilateral low back pain without sciatica
+566,Z74.09,Limited mobility
+567,M75.41,Rotator cuff impingement syndrome of right shoulder
+568,E11.9,Diabetes (CMS/HCC)
+569,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+569,M54.6,Chronic midline thoracic back pain
+569,S83.422A,Tear of lateral collateral ligament of left knee
+569,C49.22,Malignant neoplasm of soft tissue of left thigh (CMS/HCC)
+569,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+569,K12.30,Mucositis after therapy
+569,Z51.11,"Chemotherapy management, encounter for"
+570,S32.82XD,Multiple closed fractures of pelvis without disruption of pelvic ring with routine healing
+570,R53.83,Fatigue due to treatment
+570,G89.18,Acute post-operative pain
+570,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+570,E23.6,Hypophysitis (CMS/HCC)
+570,C79.51,Metastatic melanoma of bone
+570,A41.9,Septic shock (CMS/HCC)
+571,R26.89,Decreased functional mobility
+571,C34.91,"Lung cancer, primary, with metastasis from lung to other site, right (CMS/HCC)"
+572,K71.9,Drug-induced liver injury
+572,M1A.0790,Chronic idiopathic gout of foot
+574,C43.72,"Malignant melanoma of skin of left lower extremity, including hip (CMS/HCC)"
+574,C56.1,Carcinoma of right ovary (CMS/HCC)
+574,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+575,I82.409,Acute deep vein thrombosis (DVT) of lower extremity (CMS/HCC)
+576,R59.1,Lymphadenopathy of head and neck
+577,N13.39,Other hydronephrosis
+577,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+577,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+577,R11.2,Non-intractable vomiting with nausea
+577,I82.409,Deep vein thrombosis (DVT) of lower extremity (CMS/HCC)
+577,Z78.9,On tube feeding diet
+577,Z97.4,Uses hearing aid
+577,R78.81,MSSA bacteremia
+577,Z90.710,History of total hysterectomy with bilateral salpingo-oophorectomy (BSO)
+577,G47.33,Obstructive sleep apnea treated with continuous positive airway pressure (CPAP)
+579,C34.90,Lung cancer metastatic to bone (CMS/HCC)
+579,E23.6,Hypophysitis (CMS/HCC)
+579,K21.0,Gastroesophageal reflux disease with esophagitis
+580,C79.2,In-transit metastasis from malignant melanoma of skin (CMS/HCC)
+580,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+580,I45.6,Wolff-Parkinson-White (WPW) pattern
+580,R53.83,Other fatigue
+581,Z51.11,Encounter for chemotherapy management
+582,I10,Elevated blood pressure reading with diagnosis of hypertension
+582,M54.32,Left sciatic nerve pain
+583,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+585,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+585,G89.3,Chronic pain due to neoplasm
+585,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+585,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+585,C64.1,Renal cell carcinoma of right kidney (CMS/HCC)
+586,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+586,I26.99,Pulmonary embolism without acute cor pulmonale (CMS/HCC)
+586,M79.604,Pain in both lower extremities
+586,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+587,I50.31,Acute diastolic (congestive) heart failure (CMS/HCC)
+588,E11.8,"Uncontrolled type 2 diabetes mellitus with complication, without long-term current use of insulin (CMS/HCC)"
+588,I50.20,HFrEF (heart failure with reduced ejection fraction) (CMS/HCC)
+589,Z99.81,Dependence on continuous supplemental oxygen
+590,C64.1,Renal cell carcinoma of right kidney (CMS/HCC)
+590,C77.9,"Secondary and unspecified malignant neoplasm of lymph node, unspecified (CMS/HCC)"
+590,J30.89,Allergic rhinitis due to dust mite
+590,L97.511,"Skin ulcer of right foot, limited to breakdown of skin (CMS/HCC)"
+590,J96.20,Acute on chronic respiratory failure (CMS/HCC)
+591,C81.18,Nodular sclerosis Hodgkin lymphoma of lymph nodes of multiple regions (CMS/HCC)
+591,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+591,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+592,G89.18,Post procedure discomfort
+592,C34.92,Primary malignant neoplasm of left lung (CMS/HCC)
+592,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+593,J96.01,Acute respiratory failure with hypoxemia (CMS/HCC)
+593,E27.3,Adrenal insufficiency due to corticosteroid withdrawal (CMS/HCC)
+593,Z92.89,History of immunotherapy
+593,M16.12,Arthritis of left hip
+593,I71.4,Abdominal aortic aneurysm (AAA) without rupture (CMS/HCC)
+593,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+593,A41.9,Septic shock (CMS/HCC)
+593,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+594,Z92.89,History of immunotherapy
+594,H61.23,"Cerumen debris on tympanic membrane, bilateral"
+594,I89.0,Lymphedema of both lower extremities
+594,F17.201,"Tobacco use disorder, severe, in early remission"
+597,M54.5,Acute right-sided low back pain without sciatica
+597,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+597,K57.91,Gastrointestinal hemorrhage associated with intestinal diverticulosis
+597,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+597,H31.012,Macular scar of left eye
+597,C62.92,Malignant Leydig cell tumor in male of left testicle (CMS/HCC)
+597,R68.89,Excessive sodium intake
+599,E66.01,Class 2 severe obesity due to excess calories with serious comorbidity in adult (CMS/HCC)
+599,M79.604,Pain of right lower extremity
+599,C43.71,Malignant melanoma of right foot (CMS/HCC)
+599,R68.89,Suspected deep tissue injury of unknown depth of heel
+601,G47.30,Sleep apnea in adult
+601,C43.21,Malignant melanoma of skin of right ear (CMS/HCC)
+601,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+601,H93.13,Bilateral tinnitus
+603,Z97.8,Uses feeding tube
+603,I82.4Z9,Acute deep vein thrombosis (DVT) of distal vein of lower extremity (CMS/HCC)
+604,Z91.81,At moderate risk for fall
+604,C43.71,Malignant melanoma of plantar aspect of right foot (CMS/HCC)
+605,H90.3,Sensorineural hearing loss (SNHL) of both ears
+607,R19.7,Intractable diarrhea
+607,Z79.52,Current chronic use of systemic steroids
+607,G89.3,Pain due to malignant neoplasm metastatic to bone (CMS/HCC)
+607,Z98.890,Status post re-excision of malignant skin lesion
+607,Z98.890,History of urostomy
+608,E63.9,Inadequate dietary intake of protein
+608,I89.0,Lymphedema of right lower extremity
+608,M47.22,"Osteoarthritis of spine with radiculopathy, cervical region"
+608,C34.92,Non-small cell carcinoma of left lung (CMS/HCC)
+608,Z98.890,History of ileal conduit
+608,C77.1,Malignant neoplasm metastatic to intrathoracic lymph node (CMS/HCC)
+608,R53.0,Neoplastic (malignant) related fatigue
+608,I95.2,Hypotension due to medication
+608,C43.72,Malignant melanoma of toe of left foot (CMS/HCC)
+610,C44.629,Squamous cell carcinoma of left hand
+610,C34.92,Malignant neoplasm of left lung (CMS/HCC)
+610,C79.31,Metastatic melanoma of brain
+610,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+611,G89.18,Acute post-operative pain
+611,G61.89,Other inflammatory polyneuropathies (CMS/HCC)
+612,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+612,K80.20,Cholelithiasis without cholecystitis
+614,C44.42,Squamous cell carcinoma of left postauricular region
+615,C78.89,Metastasis to spleen (CMS/HCC)
+615,N18.2,Stage 2 chronic kidney disease
+616,F41.8,Anxiety about health
+616,K92.1,Gastrointestinal hemorrhage with melena
+616,I26.99,Acute pulmonary embolism without acute cor pulmonale (CMS/HCC)
+617,Z62.810,Personal history of sexual abuse in childhood
+617,C03.0,Melanoma of upper gingiva (CMS/HCC)
+618,R53.0,Neoplastic (malignant) related fatigue
+618,J18.1,Pneumonia of left lower lobe due to infectious organism (CMS/HCC)
+618,G89.3,Chronic pain due to neoplasm
+618,I30.0,Idiopathic pericarditis
+618,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+619,C84.49,Peripheral T-cell lymphoma of extranodal site excluding spleen and other solid organs (CMS/HCC)
+619,G89.18,Acute post-operative pain
+620,C79.31,Metastatic melanoma of brain
+620,G95.29,Spinal cord compression due to malignant neoplasm metastatic to spine (CMS/HCC)
+620,R11.2,Non-intractable vomiting with nausea
+621,M79.89,Swelling of both lower extremities
+622,M25.612,Decreased range of motion of left shoulder
+624,H04.129,Dry eye
+625,E23.6,Hypophysitis (CMS/HCC)
+625,K52.9,Colitis determined by colorectal biopsy
+625,I82.411,Acute deep vein thrombosis (DVT) of femoral vein of right lower extremity (CMS/HCC)
+625,C34.91,"Lung cancer, primary, with metastasis from lung to other site, right (CMS/HCC)"
+627,R11.2,Non-intractable vomiting with nausea
+627,R91.8,Mass of lower lobe of left lung
+628,M25.572,Acute left ankle pain
+628,M50.90,Disorder of intervertebral disc of cervical spine
+628,I82.402,Deep vein thrombosis (DVT) of left lower extremity (CMS/HCC)
+628,J44.1,COPD with bronchial hyperresponsiveness (CMS/HCC)
+628,J18.9,Pneumonia due to infectious organism
+629,Z51.11,Encounter for chemotherapy management
+630,R19.8,Abnormal findings on esophagogastroduodenoscopy (EGD)
+630,M25.511,Acute pain of right shoulder
+630,C34.90,Lung cancer metastatic to bone (CMS/HCC)
+630,Z79.52,Current use of steroid medication
+630,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+630,Z98.1,History of thoracic spinal fusion
+630,E86.1,Hypovolemia associated with hypermetabolic state
+631,Z79.52,Current use of steroid medication
+632,J18.9,Pneumonia due to infectious organism
+634,C43.70,"Malignant melanoma of lower extremity, including hip (CMS/HCC)"
+634,A41.9,Sepsis (CMS/HCC)
+634,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+635,C79.51,Malignant neoplasm metastatic to vertebral column with unknown primary site (CMS/HCC)
+635,Z86.718,History of deep vein thrombosis (DVT) of lower extremity
+635,E11.9,"Type 2 diabetes mellitus, without long-term current use of insulin (CMS/HCC)"
+636,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+637,Q24.8,Right ventricular outflow tract obstruction
+637,G89.18,Post procedure discomfort
+637,T83.512A,Urinary tract infection associated with nephrostomy catheter (CMS/HCC)
+638,E66.01,Severe obesity (BMI 35.0-39.9) with comorbidity (CMS/HCC)
+638,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+638,M67.441,Ganglion cyst of finger of right hand
+638,C50.912,"Breast cancer, stage 1, estrogen receptor positive, left (CMS/HCC)"
+638,N99.89,Postoperative urinary retention
+638,M25.511,Acute pain of right shoulder
+640,H52.13,Myopia of both eyes with astigmatism and presbyopia
+640,M25.519,Pain and swelling of shoulder
+641,I89.0,Lymphedema of right lower extremity
+641,G44.89,Other headache syndrome
+641,I82.421,Acute deep vein thrombosis (DVT) of iliac vein of right lower extremity (CMS/HCC)
+641,Z51.11,Encounter for chemotherapy management
+642,Z79.899,Long-term use of Plaquenil
+645,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+645,H93.13,Bilateral tinnitus
+646,M06.9,Rheumatoid arthritis (CMS/HCC)
+646,R53.83,Fatigue due to treatment
+647,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+647,K59.03,Constipation due to opioid therapy
+647,N52.8,Other male erectile dysfunction
+648,E29.1,Hypogonadism in male
+649,R53.83,Other fatigue
+650,M54.42,Chronic bilateral low back pain with bilateral sciatica
+650,D64.81,Antineoplastic chemotherapy induced anemia
+650,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+650,R53.83,Fatigue due to treatment
+650,A41.9,Sepsis (CMS/HCC)
+650,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+650,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+652,I89.0,Lymphedema of both lower extremities
+653,R00.0,Sinus tachycardia by electrocardiography
+653,A41.9,Sepsis (CMS/HCC)
+653,M54.9,Upper back pain
+653,M54.5,Acute bilateral low back pain without sciatica
+653,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+653,K51.519,Left sided colitis with complication (CMS/HCC)
+654,Z87.09,History of hemoptysis
+654,I50.30,Heart failure with preserved ejection fraction (CMS/HCC)
+655,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+655,M10.9,Gout of knee
+655,C34.91,Malignant neoplasm of right lung (CMS/HCC)
+657,E23.6,Hypophysitis (CMS/HCC)
+658,G89.18,Acute post-operative pain
+659,A41.9,Septic shock (CMS/HCC)
+659,R21,Rash of entire body
+660,R29.898,Weakness of both hips
+661,I50.22,Chronic HFrEF (heart failure with reduced ejection fraction) (CMS/HCC)
+662,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+663,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+663,C78.02,Secondary renal cell carcinoma of left lung (CMS/HCC)
+663,C79.51,Malignant neoplasm metastatic to rib with unknown primary site (CMS/HCC)
+663,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+663,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+663,G89.18,Acute post-operative pain
+665,N18.3,"Chronic kidney disease, stage 3 (CMS/HCC)"
+667,S32.040A,Closed compression fracture of L4 lumbar vertebra
+667,Z92.89,History of immunotherapy
+667,G95.29,Spinal cord compression due to malignant neoplasm metastatic to spine (CMS/HCC)
+667,G89.18,Acute post-operative pain
+667,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+668,R59.1,Lymphadenopathy of head and neck
+669,M54.5,Acute bilateral low back pain without sciatica
+670,M65.332,"Trigger finger, left middle finger"
+670,G89.3,Pain from bone metastases (CMS/HCC)
+670,H61.20,Cerumen in auditory canal on examination
+670,C43.62,Malignant melanoma of left shoulder (CMS/HCC)
+670,I97.711,Intraoperative cardiac arrest during non-cardiac surgery
+670,A41.9,Sepsis (CMS/HCC)
+671,Z00.6,Patient in cancer related research study
+671,E03.8,Other specified hypothyroidism
+671,Z98.1,History of lumbar fusion
+671,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+671,Z98.890,Status post neck dissection
+672,Z92.89,History of immunotherapy
+673,R21,Rash of entire body
+673,N39.0,Urinary tract infection without hematuria
+674,H20.00,Acute anterior uveitis of both eyes
+674,S32.020A,Closed compression fracture of second lumbar vertebra (CMS/HCC)
+674,E03.8,Other specified hypothyroidism
+675,C34.92,Non-small cell cancer of left lung (CMS/HCC)
+675,I50.20,HFrEF (heart failure with reduced ejection fraction) (CMS/HCC)
+675,C34.01,Malignant neoplasm of hilus of right lung (CMS/HCC)
+675,G89.18,Acute post-operative pain
+676,R41.82,"Altered mental status, unspecified"
+678,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+679,R79.89,Low serum sodium
+679,C34.92,"Non-small cell carcinoma of left lung, stage 4 (CMS/HCC)"
+679,C52,Cancer involving bladder by direct extension from vagina (CMS/HCC)
+679,R22.32,Mass of left upper extremity
+679,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+680,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+680,R06.02,Shortness of breath at rest
+681,C34.91,"Adenocarcinoma of lung, stage 4, right (CMS/HCC)"
+682,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+683,H43.392,Vitreous floaters of left eye
+683,G89.18,Acute post-operative pain
+683,I82.409,Recurrent deep vein thrombosis (DVT) (CMS/HCC)
+683,Z79.82,On aspirin at home
+683,G47.33,Obstructive sleep apnea treated with BiPAP
+684,I61.9,Left-sided nontraumatic intracerebral hemorrhage (CMS/HCC)
+684,R51,Nonintractable episodic headache
+686,A41.9,Sepsis (CMS/HCC)
+687,H04.123,Insufficiency of tear film of both eyes
+687,Z92.89,History of immunotherapy
+688,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+689,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+689,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+691,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms
+691,C43.62,Malignant melanoma of left shoulder (CMS/HCC)
+691,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+691,M79.89,Left leg swelling
+691,M25.552,Pain of left hip joint
+692,I25.110,Coronary artery disease involving native coronary artery of native heart with unstable angina pectoris (CMS/HCC)
+693,E11.9,Diabetes (CMS/HCC)
+693,C41.0,Malignant neoplasm of skull (CMS/HCC)
+693,M79.89,Swelling of both lower extremities
+693,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+693,M54.5,Acute bilateral low back pain without sciatica
+693,F41.8,Anxiety about health
+693,I82.421,Acute deep vein thrombosis (DVT) of iliac vein of right lower extremity (CMS/HCC)
+693,N40.1,Benign prostatic hyperplasia with nocturia
+693,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+693,I25.119,Coronary artery disease involving native coronary artery of native heart with angina pectoris (CMS/HCC)
+696,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+696,H52.13,"Myopia with astigmatism and presbyopia, bilateral"
+697,M06.09,Rheumatoid arthritis of multiple sites with negative rheumatoid factor (CMS/HCC)
+698,R53.83,Fatigue due to treatment
+698,Z71.3,Nutritional counseling
+698,I63.9,Cerebrovascular accident (CVA) (CMS/HCC)
+698,R10.2,Pain in pelvis
+698,I63.532,Cerebrovascular accident (CVA) due to occlusion of left posterior cerebral artery (CMS/HCC)
+700,D72.819,White blood cells (WBC) decreased by chemotherapy or medication
+700,A41.9,Sepsis (CMS/HCC)
+701,Z92.89,History of immunotherapy
+701,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+702,I83.93,Varicose veins of both lower extremities
+703,M75.82,"Rotator cuff tendinitis, left"
+704,J96.11,Chronic respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+704,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+704,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+705,H52.13,Myopia of both eyes with astigmatism and presbyopia
+706,C61,Prostate cancer metastatic to bone (CMS/HCC)
+706,R53.83,Fatigue due to treatment
+706,M54.6,Chronic midline thoracic back pain
+706,H25.13,Nuclear sclerosis of both eyes
+706,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+706,I82.90,Venous thromboembolism (VTE)
+706,Z00.6,Patient in clinical research study
+706,Z00.6,Clinical trial participant
+706,A41.9,Septic shock (CMS/HCC)
+707,Z51.11,"Chemotherapy management, encounter for"
+708,E66.01,"Obesity, morbid, BMI 40.0-49.9 (CMS/HCC)"
+708,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+708,I13.0,"Cardiorenal syndrome, stage 1-4 or unspecified chronic kidney disease, with heart failure (CMS/HCC)"
+708,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+708,Z98.890,History of surgical removal of intestinal structure
+708,K85.80,Other acute pancreatitis without necrosis or infection
+708,Z00.6,Clinical trial participant
+709,I89.0,Lymphedema of right lower extremity
+713,R20.0,Numbness of right hand
+713,M48.061,Spinal stenosis at L4-L5 level
+714,G89.18,Acute post-operative pain
+714,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+714,R29.898,Weakness of right lower extremity
+714,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+715,Z93.0,Tracheostomy present (CMS/HCC)
+715,C34.32,Malignant neoplasm of lower lobe of left lung (CMS/HCC)
+715,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+716,Z79.52,Current use of steroid medication
+716,R51,Headache
+716,I67.89,Radiation therapy induced brain necrosis
+716,N13.1,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+716,C79.31,Metastatic melanoma of brain
+716,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+718,Z96.89,Chest tube in place
+718,M79.89,Swelling of lower extremity
+718,M79.601,Pain of right upper extremity
+718,M79.89,Swelling of lower extremity
+719,C43.71,Malignant melanoma of right lower extremity (CMS/HCC)
+721,D17.0,Lipoma of head
+721,H04.123,Chronic dryness of both eyes
+722,R51,Frequent headaches
+722,J18.9,Multifocal pneumonia
+722,Z78.9,Takes dietary supplements
+722,G44.89,Other headache syndrome
+724,F33.40,"Recurrent major depressive disorder, in remission (CMS/HCC)"
+724,A41.9,Sepsis (CMS/HCC)
+725,M87.051,"Aseptic necrosis of femoral head, right (CMS/HCC)"
+725,R53.83,Fatigue due to treatment
+725,A41.9,Sepsis (CMS/HCC)
+725,J15.1,Pneumonia of right upper lobe due to Pseudomonas species (CMS/HCC)
+726,R51,Headache
+726,D61.810,Antineoplastic chemotherapy induced pancytopenia (CMS/HCC)
+726,C66.1,Urothelial carcinoma of right distal ureter (CMS/HCC)
+727,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+727,L20.84,Intrinsic eczema
+728,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+729,G89.18,Post procedure discomfort
+729,R27.0,Ataxia of right upper extremity
+729,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+729,A41.9,Sepsis (CMS/HCC)
+729,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+729,R51,Headache
+729,E11.9,Diabetes (CMS/HCC)
+729,H59.812,Postsurgical retinal scar of left eye
+730,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+730,G89.18,Acute post-operative pain
+731,Z98.890,Status post neck dissection
+731,Z97.8,Uses feeding tube
+731,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+731,M25.571,Arthralgia of both ankles
+731,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+732,C34.90,Stage 4 lung cancer (CMS/HCC)
+734,K57.92,Diverticulitis of intestine
+734,K83.1,Biliary obstruction due to cancer (CMS/HCC)
+734,I48.91,Atrial fibrillation and flutter (CMS/HCC)
+734,J98.09,Mucus plugging of bronchi
+734,M05.79,Rheumatoid arthritis involving multiple sites with positive rheumatoid factor (CMS/HCC)
+734,A41.9,Sepsis (CMS/HCC)
+735,R11.2,Non-intractable vomiting with nausea
+735,Z96.611,History of right shoulder replacement
+735,D49.6,Neoplasm of posterior cranial fossa (CMS/HCC)
+735,C78.01,Secondary malignant neoplasm of both lungs (CMS/HCC)
+735,C34.90,Primary mucinous adenocarcinoma of lung (CMS/HCC)
+738,C50.919,Metastatic breast cancer (CMS/HCC)
+738,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+739,S72.002G,Closed fracture of left hip with delayed healing
+740,Z92.3,History of external beam radiation therapy
+740,Z51.11,Encounter for chemotherapy management
+740,I25.810,Coronary artery disease involving coronary bypass graft of native heart without angina pectoris
+741,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+741,J18.1,Left upper lobe consolidation (CMS/HCC)
+741,C50.912,"Malignant neoplasm of left breast, estrogen receptor positive (CMS/HCC)"
+741,K59.03,Constipation due to opioid therapy
+742,J18.9,Pneumonia of both lungs due to infectious organism
+742,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+743,A41.9,Sepsis (CMS/HCC)
+743,M79.604,Pain in both lower extremities
+743,Z00.6,Patient in cancer related research study
+743,R18.8,Poorly controlled ascites
+745,J30.1,Seasonal allergic rhinitis due to pollen
+746,N39.0,Urinary tract infection with hematuria
+746,M25.561,Acute pain of right knee
+746,Z98.890,Status post dissection of neck
+747,A41.9,Sepsis (CMS/HCC)
+747,C92.00,Acute myeloid leukemia not having achieved remission (CMS/HCC)
+749,J18.9,Pneumonia due to infectious organism
+749,C77.4,Secondary malignancy of inguinal lymph nodes (CMS/HCC)
+749,A41.9,Septic shock (CMS/HCC)
+751,R11.15,Intractable cyclical vomiting with nausea
+751,M54.5,Chronic midline low back pain without sciatica
+751,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+751,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+754,M84.411G,Pathological fracture of right clavicle with delayed healing
+754,I31.3,Pericardial effusion with cardiac tamponade
+755,R11.2,Non-intractable vomiting with nausea
+756,M65.322,"Trigger finger, left index finger"
+756,B18.2,Chronic hepatitis C without hepatic coma (CMS/HCC)
+756,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+756,M79.2,Neuropathic pain of left lower extremity
+756,S32.050A,Compression fracture of L5 vertebra (CMS/HCC)
+756,E03.2,Hypothyroidism due to medication
+756,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+757,I67.89,Radiation therapy induced brain necrosis
+757,K71.9,Drug induced liver disease
+757,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+757,E11.3299,"Type 2 diabetes mellitus with mild nonproliferative retinopathy without macular edema, without long-term current use of insulin (CMS/HCC)"
+757,Z92.29,History of anticoagulant therapy
+758,Z92.89,History of immunotherapy
+759,K59.03,Constipation due to opioid therapy
+759,R11.2,Intractable vomiting with nausea
+759,R53.1,"Decreased strength, endurance, and mobility"
+759,Z34.90,Prenatal care
+759,K59.00,"Constipation, unspecified"
+759,M79.89,Left leg swelling
+759,E66.01,Morbid obesity due to excess calories (CMS/HCC)
+759,C67.9,Primary cancer of bladder (CMS/HCC)
+761,Z51.11,Encounter for chemotherapy management
+762,M54.5,Right-sided low back pain without sciatica
+762,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+764,I50.30,(HFpEF) heart failure with preserved ejection fraction (CMS/HCC)
+764,Z92.89,History of immunotherapy
+765,C79.9,Death due to metastatic cancer (CMS/HCC)
+766,Z98.890,Status post radical dissection of neck
+767,Z51.11,"Chemotherapy management, encounter for"
+768,M25.561,Acute pain of right knee
+768,M25.551,Pain of both hip joints
+768,H53.483,"Visual field constriction, bilateral"
+768,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+769,R20.0,Numbness on right side
+769,K21.0,Gastroesophageal reflux disease with esophagitis
+769,I89.0,Lymphedema of right lower extremity
+769,Z92.3,History of external beam radiation therapy
+769,Z74.09,Limited mobility
+769,C34.92,Squamous cell carcinoma of left lung (CMS/HCC)
+769,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+769,E66.9,Class 1 obesity
+769,Z48.89,Postoperative visit
+769,D64.9,Symptomatic anemia
+769,T83.122S,"Ureteral stent displacement, sequela"
+769,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+769,Z92.3,History of radiation exposure to spine
+769,C84.99,Mature NK/T-cell lymphoma of extranodal site excluding spleen and other solid organs (CMS/HCC)
+769,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+771,C64.1,Clear cell adenocarcinoma of right kidney (CMS/HCC)
+771,A41.9,Severe sepsis (CMS/HCC)
+771,M25.561,Arthralgia of both knees
+771,C50.912,"Breast cancer, stage 2, left (CMS/HCC)"
+771,G93.5,Compression of brain due to spontaneous cerebral hemorrhage (CMS/HCC)
+771,S41.102A,Open wound of left upper extremity
+771,C69.60,Melanoma of orbit (CMS/HCC)
+771,K51.919,Ulcerative colitis with complication (CMS/HCC)
+771,E03.2,Hypothyroidism due to medication
+771,Z51.11,Encounter for chemotherapy management
+772,M16.10,Primary osteoarthritis of hip
+772,I48.92,Unspecified atrial flutter (CMS/HCC)
+772,M79.605,Pain in left leg
+772,E11.9,Diabetes (CMS/HCC)
+772,H04.123,Insufficiency of tear film of both eyes
+772,M54.6,Chronic left-sided thoracic back pain
+772,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+774,E03.2,Hypothyroidism due to medication
+774,Z98.890,Status post neck dissection
+774,M79.2,Neuropathic pain of left lower extremity
+774,I51.3,Thrombus in heart chamber
+774,J18.9,Pneumonia due to infectious organism
+774,Z00.6,Patient in clinical research study
+774,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+776,F41.8,Anxiety about health
+776,R20.0,Numbness of right hand
+777,C43.59,Malignant melanoma of upper back (CMS/HCC)
+779,R53.83,Fatigue due to treatment
+780,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+780,D64.9,Symptomatic anemia
+780,E66.9,Obesity with body mass index 30 or greater
+780,M54.6,Acute midline thoracic back pain
+780,G89.18,Acute post-operative pain
+780,Z99.81,Requires continuous at home supplemental oxygen
+780,A41.9,Sepsis (CMS/HCC)
+780,M79.89,Left leg swelling
+780,G89.3,Pain from bone metastases (CMS/HCC)
+782,T83.592A,Infection associated with indwelling ureteral stent (CMS/HCC)
+782,C50.919,Metastatic breast cancer (CMS/HCC)
+782,S91.302A,Open wound of left heel
+782,Z48.89,Postoperative visit
+783,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+784,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+785,C43.71,Malignant melanoma of skin of right foot (CMS/HCC)
+785,C79.61,"Metastasis to ovary, bilateral (CMS/HCC)"
+786,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+787,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+790,C79.31,Metastatic melanoma of brain
+791,G89.18,Acute post-operative pain
+791,F50.89,Psychogenic vomiting without nausea
+792,N99.89,Postoperative urinary retention
+792,M84.521G,Pathological fracture of right humerus due to neoplastic disease with delayed healing
+792,M10.9,Acute gout of left ankle
+794,N39.0,Urinary tract infection without hematuria
+795,C64.2,Renal cell carcinoma of left kidney (CMS/HCC)
+795,I50.20,Heart failure with reduced ejection fraction (CMS/HCC)
+795,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+795,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+795,E23.6,Hypophysitis (CMS/HCC)
+795,R91.8,Multiple pulmonary nodules determined by computed tomography of lung
+795,H53.8,Visual blurriness
+798,C34.90,"Squamous cell carcinoma of lung, stage IV, unspecified laterality (CMS/HCC)"
+798,S70.12XA,Hematoma of left thigh
+798,D49.6,Neoplasm of posterior cranial fossa (CMS/HCC)
+798,R11.15,Non-intractable cyclical vomiting with nausea
+798,M84.522A,Pathological fracture of left humerus due to neoplastic disease
+798,R29.898,Weakness of right lower extremity
+799,M25.551,Lateral pain of right hip
+799,M05.741,Rheumatoid arthritis involving both hands with positive rheumatoid factor (CMS/HCC)
+799,R10.2,Pelvic pain
+799,Z15.01,BRCA1 gene mutation positive in female
+801,C91.00,Philadelphia chromosome positive acute lymphoblastic leukemia (ALL) (CMS/HCC)
+801,E66.09,Class 2 obesity due to excess calories without serious comorbidity with body mass index (BMI) of 36.0 to 36.9 in adult
+802,H52.13,Myopia of both eyes with astigmatism and presbyopia
+803,A41.9,Sepsis (CMS/HCC)
+803,M79.2,Neuropathic pain of right lower extremity
+803,M16.9,Degenerative joint disease (DJD) of hip
+803,C79.31,Secondary malignancy of brain stem (CMS/HCC)
+803,D17.1,Lipoma of chest wall
+803,R11.14,Bilious vomiting with nausea
+806,S76.019A,Tear of gluteus minimus tendon
+806,R11.2,Non-intractable vomiting with nausea
+806,R51,Headache
+806,I61.1,Nontraumatic cortical hemorrhage of cerebral hemisphere (CMS/HCC)
+806,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+808,Z68.27,Body mass index (BMI) of 27.0 to 27.9 in adult
+808,M1A.09X0,Chronic idiopathic gout of multiple sites
+809,C79.51,Adenocarcinoma metastatic to left femur (CMS/HCC)
+809,G89.3,Pain from bone metastases (CMS/HCC)
+809,H90.A22,Sensorineural hearing loss (SNHL) of left ear with restricted hearing of right ear
+809,M67.911,Dysfunction of right rotator cuff
+810,S22.010D,Closed wedge compression fracture of first thoracic vertebra with routine healing
+810,I82.413,Acute deep vein thrombosis (DVT) of femoral vein of both lower extremities (CMS/HCC)
+811,C71.9,Glioma (CMS/HCC)
+812,R53.83,Fatigue due to treatment
+812,C77.9,"Secondary and unspecified malignant neoplasm of lymph node, unspecified (CMS/HCC)"
+812,M10.071,Acute idiopathic gout of right foot
+813,R22.1,Mass of thyroid region
+814,C34.92,Squamous cell carcinoma of left lung (CMS/HCC)
+815,I26.99,Pulmonary embolism on long-term anticoagulation therapy (CMS/HCC)
+815,I26.92,Acute saddle pulmonary embolism without acute cor pulmonale (CMS/HCC)
+815,I63.439,"Cerebrovascular accident (CVA) due to embolism of posterior cerebral artery, unspecified blood vessel laterality (CMS/HCC)"
+815,R06.02,Shortness of breath at rest
+817,R79.89,High serum lactate
+818,Z78.9,On tube feeding diet
+818,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+820,F06.4,Anxiety disorder due to general medical condition
+820,E11.9,Diabetes (CMS/HCC)
+822,M95.8,"Winged scapula, left"
+822,R51,Episodic headache
+823,J96.11,"Chronic respiratory failure with hypoxia, on home oxygen therapy (CMS/HCC)"
+824,L98.9,Lesion of neck
+824,M79.605,Pain of left lower extremity
+825,C02.0,Squamous cell carcinoma of dorsal tongue (CMS/HCC)
+825,F17.201,Severe tobacco dependence in early remission
+825,M67.912,Dysfunction of left rotator cuff
+826,O69.82X0,Cord entanglement w/o compression
+826,Z78.9,Problem with vascular access
+826,Z00.6,Research study patient
+826,H25.12,"Nuclear sclerosis, left"
+826,S20.211A,Hematoma of right chest wall
+826,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+826,M25.511,Acute pain of right shoulder
+827,C79.31,Metastatic melanoma of brain
+827,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+827,R07.89,Chest pain of unknown etiology
+827,G89.18,Acute post-operative pain
+827,H11.441,"Conjunctival cyst, right"
+827,R51,Headache
+831,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+831,I48.92,New onset atrial flutter (CMS/HCC)
+831,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+831,Z95.810,ICD (implantable cardioverter-defibrillator) in place
+831,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+832,Z79.52,Current use of steroid medication
+835,R91.8,Mass of right lung
+835,Z96.652,"S/P total knee arthroplasty, left"
+838,R19.7,"Diarrhea, unspecified"
+838,A41.9,Sepsis (CMS/HCC)
+838,C79.71,Malignant neoplasm metastatic to right adrenal gland (CMS/HCC)
+838,C56.1,Malignant neoplasm of both ovaries (CMS/HCC)
+839,I50.30,Heart failure with preserved ejection fraction (CMS/HCC)
+839,C43.4,Melanoma of right side of neck (CMS/HCC)
+839,R04.0,Frequent epistaxis
+843,C79.31,Metastatic melanoma of brain
+843,H90.A31,Mixed conductive and sensorineural hearing loss of right ear with restricted hearing of left ear
+843,G47.09,Other insomnia
+844,R53.83,Fatigue due to treatment
+844,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+845,M76.31,"It band syndrome, right"
+845,K59.03,Constipation due to opioid therapy
+845,M22.2X1,"Patellofemoral disorder, right"
+845,I21.3,Acute ST elevation myocardial infarction (STEMI) (CMS/HCC)
+846,Z79.52,Current use of steroid medication
+846,D3A.090,Carcinoid tumor of left lung
+846,H20.9,Iritis of both eyes
+846,M54.5,Chronic bilateral low back pain without sciatica
+846,M84.451A,Pathological fracture of neck of right femur (CMS/HCC)
+846,Z95.810,Biventricular ICD (implantable cardioverter-defibrillator) in place
+846,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+846,G89.18,Post procedure discomfort
+847,C64.2,"Kidney cancer, primary, with metastasis from kidney to other site, left (CMS/HCC)"
+848,K59.03,Constipation due to opioid therapy
+849,C78.02,Malignant neoplasm metastatic to left lung (CMS/HCC)
+849,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+850,R51,Headache
+850,R91.8,Mass of upper lobe of right lung
+851,Z92.89,History of immunotherapy
+851,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+851,C78.7,Metastasis to liver with unknown primary site (CMS/HCC)
+852,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+854,M54.5,Right-sided low back pain without sciatica
+854,H52.13,Myopia of both eyes with astigmatism
+854,Z71.89,Counseling regarding advanced care planning and goals of care
+854,C43.8,Malignant melanoma of overlapping sites (CMS/HCC)
+856,M15.0,Primary osteoarthritis involving multiple joints
+856,C43.62,Malignant melanoma of left upper arm (CMS/HCC)
+857,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+858,R51,Nonintractable episodic headache
+858,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+858,C43.59,Malignant melanoma of other part of trunk (CMS/HCC)
+858,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+858,R20.2,Paresthesia of both feet
+858,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+858,J96.92,Hypercapnic respiratory failure (CMS/HCC)
+858,H04.129,Dry eye
+858,I63.40,Cerebrovascular accident (CVA) due to embolism of cerebral artery (CMS/HCC)
+858,E11.8,Type 2 diabetes mellitus with complication (CMS/HCC)
+858,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+858,D64.81,Antineoplastic chemotherapy induced anemia
+858,D49.511,Tumor of right kidney with thrombus of IVC (CMS/HCC)
+860,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+861,Z51.11,Encounter for chemotherapy management
+861,R53.83,Other fatigue
+861,C34.31,Malignant neoplasm of lower lobe of right lung (CMS/HCC)
+862,I67.89,Radiation therapy induced brain necrosis
+863,E11.9,"Type 2 diabetes mellitus, without long-term current use of insulin (CMS/HCC)"
+863,C50.919,Metastatic breast cancer (CMS/HCC)
+863,C34.01,Malignant neoplasm of hilus of right lung (CMS/HCC)
+863,R51,Headache
+864,C66.1,Urothelial carcinoma of right distal ureter (CMS/HCC)
+864,I12.0,CKD stage 5 secondary to hypertension (CMS/HCC)
+864,E23.6,Hypophysitis (CMS/HCC)
+866,N18.3,"CKD stage G3b/A2, GFR 30-44 and albumin creatinine ratio 30-299 mg/g (CMS/HCC)"
+867,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+868,A49.1,Streptococcal infection
+868,C34.81,Malignant neoplasm of overlapping sites of right lung (CMS/HCC)
+869,R45.89,Difficulty coping with disease
+871,Z92.89,History of immunotherapy
+871,C50.919,Metastatic breast cancer (CMS/HCC)
+873,R51,Headache
+873,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+874,Z86.718,History of deep vein thrombosis (DVT) of lower extremity
+874,Z51.11,Encounter for chemotherapy management
+875,M84.551A,Pathological fracture of right hip due to neoplastic disease (CMS/HCC)
+875,M54.2,Neck pain due to malignant neoplastic disease (CMS/HCC)
+876,G44.89,Other headache syndrome
+876,M10.9,Gout of foot
+876,Z86.19,History of recent acute infection
+877,M84.58XA,Pathological fracture of vertebra due to neoplastic disease
+878,C83.39,Diffuse large B-cell lymphoma of extranodal site excluding spleen and other solid organs (CMS/HCC)
+878,R29.818,Suspected sleep apnea
+878,I82.413,Acute deep vein thrombosis (DVT) of femoral vein of both lower extremities (CMS/HCC)
+878,M70.21,"Olecranon bursitis, right elbow"
+878,Z98.890,Status post neck dissection
+879,Z79.52,Current chronic use of systemic steroids
+879,C7B.1,Secondary Merkel cell carcinoma (CODE) (CMS/HCC)
+880,R22.32,Mass of left upper extremity
+881,T82.7XXA,ICD (implantable cardioverter-defibrillator) infection (CMS/HCC)
+881,R11.2,Non-intractable vomiting with nausea
+881,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+882,J98.4,Lung entrapment
+882,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+882,J96.01,Acute respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+886,R11.2,Intractable vomiting with nausea
+886,J18.9,Pneumonia of both lungs due to infectious organism
+887,A41.81,Severe sepsis with acute organ dysfunction due to Enterococcus species (CMS/HCC)
+887,S22.41XG,Closed fracture of multiple ribs of right side with delayed healing
+889,A41.9,Sepsis (CMS/HCC)
+889,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+890,M23.92,"Knee derangement syndrome, left"
+890,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+891,C43.59,Malignant melanoma of upper back (CMS/HCC)
+892,R51,Headache
+893,E11.49,Type 2 diabetes mellitus with neurologic complication (CMS/HCC)
+893,R29.898,Weakness of left lower extremity
+894,S42.034G,Closed nondisplaced fracture of acromial end of right clavicle with delayed healing
+894,M06.9,Rheumatoid arthritis (CMS/HCC)
+894,Z15.09,PMS2-related Lynch syndrome (HNPCC4)
+894,G89.18,Post procedure discomfort
+895,C34.31,Malignant neoplasm of lower lobe of right lung (CMS/HCC)
+895,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+895,E11.65,Uncontrolled type 2 diabetes mellitus (CMS/HCC)
+895,E66.9,Class 1 obesity in adult
+896,Z79.899,Immunosuppressed due to chemotherapy
+896,G89.18,Post procedure discomfort
+896,Z87.891,History of tobacco use disorder
+896,H52.13,Myopia of both eyes with astigmatism
+896,A41.9,Sepsis (CMS/HCC)
+896,M54.2,Neck pain due to malignant neoplastic disease (CMS/HCC)
+896,I35.9,"Nonrheumatic aortic valve disorder, unspecified"
+896,R51,Headache
+898,F41.8,Anxiety about health
+898,C50.912,"Cancer of left breast, stage 3 (CMS/HCC)"
+899,M79.604,Pain of right lower extremity
+900,A41.9,Sepsis (CMS/HCC)
+900,G89.3,Pain due to malignant neoplasm metastatic to bone (CMS/HCC)
+901,Z51.11,Encounter for antineoplastic chemotherapy and immunotherapy
+901,F45.1,"Somatic symptom disorder, persistent, severe, with predominant pain"
+903,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+903,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+903,E03.2,Hypothyroidism due to medication
+904,R51,Facial discomfort
+904,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+904,Z51.81,Subtherapeutic anticoagulation
+904,M81.0,Osteoporosis of forearm
+904,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+905,H72.93,"Tympanic membrane perforation, bilateral"
+906,N18.4,"Chronic renal failure, stage 4 (severe) (CMS/HCC)"
+906,T80.89XA,Hives as manifestation of blood transfusion reaction
+906,Z98.890,Status post neck dissection
+906,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+906,E11.10,Diabetic ketoacidosis without coma associated with type 2 diabetes mellitus (CMS/HCC)
+906,Z89.431,History of amputation of right foot (CMS/HCC)
+907,Z51.11,Encounter for chemotherapy management
+910,R29.818,Suspected sleep apnea
+911,I26.99,Other pulmonary embolism without acute cor pulmonale (CMS/HCC)
+911,K57.80,Diverticulitis of intestine with perforation
+911,D27.9,Cystadenoma of ovary determined by biopsy
+912,Z98.890,Status post dissection of neck
+913,G89.18,Acute post-operative pain
+913,C34.91,Adenocarcinoma of right lung (CMS/HCC)
+917,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+918,M54.5,Chronic right-sided low back pain without sciatica
+919,Z00.6,Patient in clinical research study
+920,M23.204,Old complex tear of medial meniscus of left knee
+920,C43.72,Malignant melanoma of left foot (CMS/HCC)
+921,I82.511,Chronic deep vein thrombosis (DVT) of femoral vein of right lower extremity (CMS/HCC)
+921,C30.0,Cancer of nasal cavity and sinus (CMS/HCC)
+921,R53.83,Other fatigue
+922,A41.9,Sepsis (CMS/HCC)
+922,R29.898,Exposed mandibular bone
+923,Z87.898,History of seizure
+923,R11.2,Non-intractable vomiting with nausea
+924,C34.92,"Adenocarcinoma of left lung, stage 4 (CMS/HCC)"
+924,I25.810,Coronary artery disease involving nonautologous biological coronary bypass graft without angina pectoris
+924,H57.12,Acute left eye pain
+924,R91.8,Ground glass opacity present on imaging of lung
+925,D03.9,Malignant melanoma in situ (CMS/HCC)
+925,I61.2,Left-sided intracerebral hemorrhage (CMS/HCC)
+925,E03.2,Hypothyroidism due to medication
+925,E87.6,Low serum potassium
+925,E11.3299,Background diabetic retinopathy (CMS/HCC)
+926,Z98.890,Status post neck dissection
+927,R53.83,Fatigue due to treatment
+928,D64.81,Antineoplastic chemotherapy induced anemia
+928,R22.31,Mass of right forearm
+928,A41.9,Sepsis (CMS/HCC)
+928,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+928,I26.99,Acute pulmonary embolism without acute cor pulmonale (CMS/HCC)
+929,R22.2,Mass of anterior abdominal wall
+929,R29.898,Weakness of both lower extremities
+930,M25.511,Right anterior shoulder pain
+930,C34.90,"Adenocarcinoma, lung, unspecified laterality (CMS/HCC)"
+930,Z98.890,Status post dissection of neck
+930,C34.90,SCC of lung (small cell carcinoma) (CMS/HCC)
+931,Z97.4,Wears hearing aid in both ears
+931,J96.21,Acute on chronic respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+931,C78.02,"Metastatic melanoma to lung, left (CMS/HCC)"
+931,B36.9,Fungal rash of trunk
+931,Z87.898,History of weight loss
+931,R47.82,Fluency disorder associated with underlying disease
+931,C34.92,Squamous cell carcinoma of left lung (CMS/HCC)
+931,C34.90,Recurrent non-small cell lung cancer (NSCLC) (CMS/HCC)
+931,M25.561,Chronic pain of both knees
+932,I61.9,Bleeding in brain (CMS/HCC)
+932,A41.9,Sepsis (CMS/HCC)
+932,Z79.52,Current use of steroid medication
+932,Z79.899,On amiodarone therapy
+933,K29.70,Gastritis determined by endoscopy
+933,M84.551A,Pathological fracture of right femur due to neoplastic disease (CMS/HCC)
+934,M06.9,Rheumatoid arthritis (CMS/HCC)
+935,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+935,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+935,I26.99,Other pulmonary embolism without acute cor pulmonale (CMS/HCC)
+938,A41.9,Sepsis (CMS/HCC)
+938,C78.01,Malignant neoplasm metastatic to right lung (CMS/HCC)
+938,M25.551,Pain of both hip joints
+938,Z86.69,History of retinal tear
+938,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+938,K92.0,Gastrointestinal hemorrhage with hematemesis
+939,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+940,M25.871,"Decreased proprioception of joint of foot, right"
+940,Z15.09,Hereditary nonpolyposis colorectal cancer gene mutation positive
+940,C43.71,Malignant melanoma of right foot (CMS/HCC)
+940,C44.629,Squamous cell cancer of skin of left shoulder
+940,E03.2,Hypothyroidism due to medication
+940,L98.9,Skin lesions
+941,Z98.890,Status post neck dissection
+941,E23.6,Hypophysitis (CMS/HCC)
+941,E66.01,Severe obesity (BMI 35.0-39.9)
+942,G56.01,Mild carpal tunnel syndrome of right wrist
+942,R22.2,Mass of thoracic vertebra
+942,S42.321K,Closed displaced transverse fracture of shaft of right humerus with nonunion
+942,Q66.71,Pes cavus of right foot
+943,K21.9,Chronic GERD
+943,I25.10,Coronary artery disease involving native coronary artery of native heart without angina pectoris
+943,Z93.1,S/P percutaneous endoscopic gastrostomy (PEG) tube placement (CMS/HCC)
+944,A41.9,Sepsis (CMS/HCC)
+944,C43.72,"Malignant melanoma of skin of left lower extremity, including hip (CMS/HCC)"
+944,N40.1,Benign prostatic hyperplasia with nocturia
+944,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+945,M84.550A,Pathological fracture of pelvis due to neoplastic disease
+946,E11.29,Type 2 diabetes mellitus with renal complication (CMS/HCC)
+946,M25.512,Acute pain of left shoulder
+947,R51,Nonintractable headache
+947,R11.2,Non-intractable vomiting with nausea
+947,L89.311,"Right ischial pressure sore, stage 1"
+947,R26.89,Abnormality of gait due to impairment of balance
+947,Z48.89,Postoperative visit
+949,K57.30,Diverticulosis of large intestine without hemorrhage
+950,C34.91,Primary malignant neoplasm of right lung metastatic to other site (CMS/HCC)
+950,M54.40,Midline low back pain with sciatica
+950,Z93.6,Presence of urostomy (CMS/HCC)
+951,N18.3,"Chronic renal failure, stage 3 (moderate) (CMS/HCC)"
+951,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+951,I82.529,Chronic deep vein thrombosis (DVT) of iliac vein (CMS/HCC)
+951,C77.9,Malignant neoplasm metastatic to lymph nodes (CMS/HCC)
+951,J18.9,Sepsis due to pneumonia (CMS/HCC)
+951,C08.9,Myoepithelial carcinoma (CMS/HCC)
+951,K59.03,Constipation due to opioid therapy
+951,C34.92,"Lung cancer, primary, with metastasis from lung to other site, left (CMS/HCC)"
+951,C64.2,Renal cell carcinoma of left kidney (CMS/HCC)
+951,Z96.641,History of total right hip replacement
+952,D45,Polycythemia vera (CMS/HCC)
+952,C34.92,"Adenocarcinoma of left lung, stage 4 (CMS/HCC)"
+952,J18.9,Pneumonia due to infectious organism
+952,C34.92,Primary adenocarcinoma of left lung (CMS/HCC)
+952,R53.83,Fatigue due to treatment
+955,C44.319,Basal cell carcinoma of skin of other parts of face
+955,J96.02,Acute hypercapnic respiratory failure (CMS/HCC)
+956,R51,Headache
+956,C43.71,Malignant melanoma of right thigh (CMS/HCC)
+957,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+959,M75.81,Right rotator cuff tendinitis
+959,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+959,A41.9,Sepsis (CMS/HCC)
+959,A41.9,Septic shock (CMS/HCC)
+959,Z00.6,Clinical trial participant
+960,J30.1,Seasonal allergic rhinitis due to pollen
+961,G89.3,Pain due to malignant neoplasm metastatic to bone (CMS/HCC)
+962,I82.402,Acute deep vein thrombosis (DVT) of left lower extremity (CMS/HCC)
+963,Z79.899,Immunosuppressed due to chemotherapy
+963,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+963,E11.9,Type 2 diabetes mellitus without complication (CMS/HCC)
+963,I31.3,Pericardial effusion without cardiac tamponade
+963,T30.0,Radiation burn
+964,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+964,I26.99,Other acute pulmonary embolism without acute cor pulmonale (CMS/HCC)
+966,I25.119,Coronary artery disease involving native coronary artery of native heart with angina pectoris (CMS/HCC)
+966,C50.912,"Breast cancer, stage 2, left (CMS/HCC)"
+966,A41.81,Sepsis due to vancomycin resistant Enterococcus species (CMS/HCC)
+966,K21.0,Gastroesophageal reflux disease with esophagitis
+966,E03.2,Hypothyroidism due to medication
+967,M15.4,Erosive osteoarthritis of both hands
+968,R91.1,Nodule of upper lobe of right lung
+968,F33.42,"Recurrent major depressive disorder, in full remission (CMS/HCC)"
+969,S46.211A,Tear of right biceps muscle
+969,E11.21,Diabetic nephropathy associated with type 2 diabetes mellitus (CMS/HCC)
+969,Z95.810,Dual implantable cardioverter-defibrillator in situ
+969,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+969,A41.9,Severe sepsis (CMS/HCC)
+969,M11.232,"Pseudogout of wrist, left"
+969,I47.1,Narrow complex tachycardia (CMS/HCC)
+970,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+970,C78.02,Secondary malignant melanoma of left lung (CMS/HCC)
+970,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+971,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+971,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+972,C43.72,Malignant melanoma of left lower extremity (CMS/HCC)
+972,K25.9,Multiple gastric ulcers
+972,A41.9,Sepsis (CMS/HCC)
+972,G89.18,Acute post-operative pain
+972,E03.2,Hypothyroidism due to medication
+972,C34.90,Lung cancer metastatic to brain (CMS/HCC)
+973,I82.621,Acute deep vein thrombosis (DVT) of brachial vein of right upper extremity (CMS/HCC)
+973,K59.03,Constipation due to opioid therapy
+973,C64.2,Primary malignant neoplasm of left kidney with metastasis from kidney to other site (CMS/HCC)
+974,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+974,J01.10,Acute non-recurrent frontal sinusitis
+976,C34.31,Malignant neoplasm of lower lobe of right lung (CMS/HCC)
+976,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+976,B97.81,Infection due to human metapneumovirus (hMPV)
+977,C79.89,Squamous cell carcinoma metastatic to head and neck with unknown primary site (CMS/HCC)
+978,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+978,M54.6,Bilateral thoracic back pain
+978,M67.911,Tendinopathy of right rotator cuff
+978,I82.409,"DVT (deep venous thrombosis), unspecified laterality"
+978,E03.2,Hypothyroidism due to medication
+979,M1A.09X0,Chronic idiopathic gout of multiple sites
+980,E11.9,"Type 2 diabetes mellitus without complication, without long-term current use of insulin (CMS/HCC)"
+980,I82.5Z2,Chronic deep vein thrombosis (DVT) of distal vein of left lower extremity (CMS/HCC)
+980,C78.01,Secondary renal cell carcinoma of right lung (CMS/HCC)
+980,I61.1,Nontraumatic cortical hemorrhage of right cerebral hemisphere (CMS/HCC)
+980,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+980,K57.30,Diverticulosis of large intestine without hemorrhage
+980,E66.01,"Obesity, morbid, BMI 50 or higher (CMS/HCC)"
+980,C78.01,Secondary malignant melanoma of right lung (CMS/HCC)
+981,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+981,R22.41,"Knee mass, right"
+982,M79.89,Swelling of right upper extremity
+982,M17.10,Primary osteoarthritis of knee
+983,C50.919,Metastatic breast cancer (CMS/HCC)
+983,G89.18,Post procedure discomfort
+983,M06.9,Rheumatoid arthritis (CMS/HCC)
+983,R29.898,Weakness of both lower extremities
+983,E23.6,Hypophysitis (CMS/HCC)
+983,M19.041,Arthritis of both hands
+983,R20.0,Numbness of right foot
+985,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+985,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+985,C34.2,Malignant neoplasm of middle lobe of right lung (CMS/HCC)
+985,T66.XXXS,"Radiation adverse effect, sequela"
+985,C34.92,"Adenocarcinoma of left lung, stage 3 (CMS/HCC)"
+987,I63.311,Cerebrovascular accident (CVA) due to thrombosis of right middle cerebral artery (CMS/HCC)
+987,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+988,E66.09,Non morbid obesity due to excess calories
+988,C79.2,Malignant neoplasm metastatic to skin (CMS/HCC)
+988,M79.604,Acute pain of right lower extremity
+989,C34.12,Cancer of upper lobe of left lung (CMS/HCC)
+989,Z79.52,Current use of steroid medication
+989,M79.609,Acute pain of extremity
+990,C06.9,"Malignant neoplasm of mouth, unspecified (CMS/HCC)"
+990,C64.2,Cancer of left kidney (CMS/HCC)
+990,G57.81,Neuropathy of right obturator nerve
+990,C43.71,Malignant melanoma of right lower leg (CMS/HCC)
+991,I69.398,Impaired balance as late effect of cerebrovascular accident (CVA)
+992,Z98.890,Status post dissection of neck
+994,R91.8,Multiple lung nodules on CT
+994,R79.89,Blood creatinine increased compared with prior measurement
+994,E11.22,"Type 2 diabetes mellitus with chronic kidney disease on chronic dialysis, with long-term current use of insulin (CMS/HCC)"
+995,T81.42XA,Deep incisional surgical site infection
+995,M88.822,Paget's disease of bone in left upper arm
+995,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+996,F41.8,Anxiety about health
+996,Z98.890,Status post neck dissection
+996,E11.42,"Type 2 diabetes mellitus with diabetic polyneuropathy, with long-term current use of insulin (CMS/HCC)"
+996,H93.13,Bilateral tinnitus
+997,C34.91,Adenocarcinoma of right lung (CMS/HCC)
+998,G50.0,Trigeminal neuralgia of left side of face
+1001,G89.18,Acute post-operative pain
+1001,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+1001,G93.9,Midline shift of brain
+1001,C79.70,Malignant neoplasm metastatic to adrenal gland (CMS/HCC)
+1002,Z98.84,S/P laparoscopic sleeve gastrectomy
+1002,H43.393,Vitreous floaters of both eyes
+1002,A41.9,Sepsis (CMS/HCC)
+1003,M16.11,Arthritis of right hip
+1004,C34.92,Squamous cell carcinoma of left lung (CMS/HCC)
+1005,L98.423,Skin ulcer of sacrum with necrosis of muscle (CMS/HCC)
+1005,M25.552,Posterior pain of left hip
+1005,S80.12XA,"Hematoma of leg, left, initial encounter"
+1006,J18.9,Pneumonia due to infectious organism
+1006,K29.00,Acute gastritis without hemorrhage
+1006,Z92.3,History of radiation to head and neck region
+1007,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+1007,J18.1,Pneumonia of left upper lobe due to infectious organism (CMS/HCC)
+1007,C34.92,Primary malignant neoplasm of left lung metastatic to other site (CMS/HCC)
+1007,M67.911,Tendinopathy of right rotator cuff
+1007,R21,Blistering rash
+1008,H04.122,Dry eye of left side
+1008,M54.12,Radiculitis of right cervical region
+1008,C34.91,"Adenocarcinoma of right lung, stage 4 (CMS/HCC)"
+1008,E11.9,Diabetes (CMS/HCC)
+1009,M25.551,Right-sided ischial pain
+1011,M05.79,Rheumatoid arthritis involving multiple sites with positive rheumatoid factor (CMS/HCC)
+1011,C64.9,"Malignant neoplasm of kidney excluding renal pelvis, unspecified laterality (CMS/HCC)"
+1011,C43.72,Malignant melanoma of left hip (CMS/HCC)
+1011,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+1011,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+1012,D70.1,Leukopenia due to antineoplastic chemotherapy (CMS/HCC)
+1012,A41.9,Sepsis (CMS/HCC)
+1013,K59.03,Constipation due to opioid therapy
+1013,C64.2,Transitional cell carcinoma of left kidney (CMS/HCC)
+1013,N18.9,Anemia in chronic kidney disease
+1013,C34.92,Primary adenocarcinoma of left lung (CMS/HCC)
+1013,C79.31,Malignant melanoma metastatic to brain (CMS/HCC)
+1015,C64.2,Malignant neoplasm of left kidney (CMS/HCC)
+1015,R51,Headache
+1015,A41.9,Septic shock (CMS/HCC)
+1015,C79.9,Multiple lesions of metastatic malignancy (CMS/HCC)
+1015,L76.34,Postprocedural seroma of skin and subcutaneous tissue following other procedure
+1016,R51,Headache
+1016,N99.89,Postoperative urinary retention
+1016,M79.2,Neuropathic pain of right shoulder
+1016,A41.9,Septic shock (CMS/HCC)
+1016,E11.311,Diabetic macular edema (CMS/HCC)
+1018,E03.2,Hypothyroidism due to medication
+1018,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+1018,Z00.6,Clinical trial participant
+1018,R53.83,Fatigue due to treatment
+1018,R51,Nonintractable episodic headache
+1018,C34.91,Malignant neoplasm of both lungs (CMS/HCC)
+1018,R91.8,Multiple lung nodules on CT
+1018,H93.13,Subjective tinnitus of both ears
+1018,Z15.09,PMS2-related Lynch syndrome (HNPCC4)
+1019,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+1019,H54.40,"Blindness, left eye, low vision right eye"
+1020,G89.18,Post procedure discomfort
+1021,H04.129,Dry eye
+1021,J96.11,"Chronic respiratory failure with hypoxia, on home oxygen therapy (CMS/HCC)"
+1021,E03.2,Hypothyroidism due to medication
+1022,T38.0X5A,"Steroid side effects, initial encounter"
+1022,E66.09,Class 2 obesity due to excess calories without serious comorbidity with body mass index (BMI) of 38.0 to 38.9 in adult
+1022,I51.89,Right atrial mass
+1022,J12.1,Pneumonia due to respiratory syncytial virus (RSV)
+1022,M62.82,Non-traumatic rhabdomyolysis
+1022,F10.21,"Alcohol use disorder, moderate, in early remission (CMS/HCC)"
+1022,E23.0,Hypogonadotropic hypogonadism in male (CMS/HCC)
+1022,R51,Headache
+1023,M19.041,Primary osteoarthritis of both hands
+1023,J18.9,Pneumonia due to infectious organism
+1023,H49.23,"6th nerve palsy, bilateral"
+1024,S15.002D,"External carotid artery injury, left, subsequent encounter"
+1024,C43.61,Malignant melanoma of right upper extremity (CMS/HCC)
+1026,C61,Prostate cancer metastatic to bone (CMS/HCC)
+1026,R05,Cough in adult patient
+1026,Z92.89,History of immunotherapy
+1027,S32.010A,"Closed compression fracture of L1 lumbar vertebra, initial encounter (CMS/HCC)"
+1027,Z92.3,History of radiation to head and neck region
+1027,K59.00,Constipation due to neurogenic bowel
+1027,H81.10,BPV (benign positional vertigo)
+1027,Z92.89,History of immunotherapy
+1028,G89.18,Acute post-operative pain
+1028,C79.31,Metastatic melanoma of brain
+1028,M54.41,Midline low back pain with right-sided sciatica
+1028,S80.12XA,Hematoma of left lower extremity
+1029,K25.9,Gastric ulcer due to nonsteroidal antiinflammatory drug (NSAID) therapy
+1029,Z92.89,History of immunotherapy
+1029,T83.091A,"Complication, blocked Foley catheter, initial encounter (CMS/HCC)"
+1030,E03.2,Hypothyroidism due to medication
+1031,I48.0,Paroxysmal atrial fibrillation with RVR (CMS/HCC)
+1031,G89.18,Post procedure discomfort
+1031,R42,Dizzinesses
+1031,R00.0,Tachycardia with 121 - 140 beats per minute
+1031,M25.629,Decreased range of motion of elbow
+1031,E03.2,Hypothyroidism due to medication
+1031,A41.9,Sepsis (CMS/HCC)
+1031,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+1032,R26.89,Impaired weight bearing
+1033,K71.9,Drug induced liver disease
+1033,C56.2,"Ovary cancer, left (CMS/HCC)"
+1033,I50.9,Acute decompensated heart failure (CMS/HCC)
+1033,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+1033,D89.813,Graft-versus-host disease of skin (CMS/HCC)
+1034,J45.909,Reactive airway disease without complication
+1034,Z74.09,"Impaired functional mobility, balance, gait, and endurance"
+1034,N32.89,Perforation of bladder
+1035,R11.2,Non-intractable vomiting with nausea
+1035,I95.89,Hypotension due to hypovolemia
+1035,G89.18,Acute post-operative pain
+1035,C65.9,Cancer of renal pelvis and ureter (CMS/HCC)
+1035,G89.3,Pain due to malignant neoplasm metastatic to bone (CMS/HCC)
+1035,G89.3,Chronic pain due to neoplasm
+1035,I42.1,Hypertrophic obstructive cardiomyopathy (CMS/HCC)
+1035,R53.83,Fatigue due to treatment
+1035,Z51.11,Encounter for chemotherapy management
+1035,F41.8,Anxiety about health
+1035,S82.832D,Closed fracture of distal end of left fibula with routine healing
+1035,A41.9,Sepsis (CMS/HCC)
+1036,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+1036,R51,Headache
+1036,N39.0,Urinary tract infection with hematuria
+1036,G89.3,Chronic pain due to neoplasm
+1038,N13.39,Other hydronephrosis
+1038,S24.159A,"Other incomplete lesion at unspecified level of thoracic spinal cord, initial encounter (CMS/HCC)"
+1038,M54.6,Acute midline thoracic back pain
+1038,I48.92,"Atrial flutter, unspecified type (CMS/HCC)"
+1039,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+1039,G63,Polyneuropathy associated with underlying disease (CMS/HCC)
+1039,E03.2,Hypothyroidism due to medication
+1040,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+1040,C64.1,Primary malignant neoplasm of right kidney with metastasis from kidney to other site (CMS/HCC)
+1041,G89.18,Acute post-operative pain
+1041,A41.9,Sepsis (CMS/HCC)
+1042,E66.01,Severe obesity (BMI 35.0-39.9) with comorbidity (CMS/HCC)
+1043,H40.033,Narrow angle glaucoma suspect of both eyes
+1043,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+1043,M89.8X5,Pain in right femur
+1043,M89.8X5,Pain of left femur
+1044,J18.9,Multifocal pneumonia
+1044,R53.83,Fatigue due to treatment
+1046,C34.91,Squamous cell carcinoma of right lung (CMS/HCC)
+1046,G89.18,Acute post-operative pain
+1047,A41.9,Sepsis (CMS/HCC)
+1047,Z87.891,History of smoking 30 or more pack years
+1048,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+1049,A41.9,Sepsis (CMS/HCC)
+1050,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+1050,E11.9,"Type 2 diabetes mellitus, without long-term current use of insulin (CMS/HCC)"
+1051,T45.1X5A,"Chemotherapy adverse reaction, initial encounter"
+1052,J30.0,Chronic vasomotor rhinitis
+1052,I27.82,Other chronic pulmonary embolism
+1052,Z91.89,At risk for Mycobacterium chimaera infection associated with extracorporeal circulatory equipment
+1053,C34.92,Stage III squamous cell carcinoma of left lung (CMS/HCC)
+1054,R22.0,Swelling of face
+1054,I50.40,"CHF (congestive heart failure), NYHA class III, unspecified failure chronicity, combined (CMS/HCC)"
+1055,D61.810,Antineoplastic chemotherapy induced pancytopenia (CMS/HCC)
+1055,N18.3,Stage 3 chronic kidney disease (CMS/HCC)
+1055,K85.00,Idiopathic acute pancreatitis without infection or necrosis
+1056,K92.1,Gastrointestinal hemorrhage with melena
+1056,R91.8,Mass of upper lobe of right lung
+1057,D64.81,Antineoplastic chemotherapy induced anemia
+1057,S24.152A,"Other incomplete lesion at T2-T6 level of thoracic spinal cord, initial encounter (CMS/HCC)"
+1057,C34.90,Non-small cell lung cancer (NSCLC) (CMS/HCC)
+1057,J96.01,Acute respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+1057,R10.2,Pelvic pain
+1058,R53.83,Fatigue due to treatment
+1058,Z87.898,History of seizure
+1058,Z00.6,Clinical trial participant
+1058,K55.21,"AVM (arteriovenous malformation) of small bowel, acquired with hemorrhage"
+1059,C64.1,Primary cancer of right kidney with metastasis from kidney to other site (CMS/HCC)
+1060,A41.9,Sepsis (CMS/HCC)
+1061,G93.9,Midline shift of brain
+1061,C50.919,Metastatic breast cancer (CMS/HCC)
+1062,L76.34,Postoperative seroma of subcutaneous tissue after non-dermatologic procedure
+1062,Z51.5,Encounter for palliative care involving management of pain
+1062,R41.82,"Altered mental status, unspecified"
+1062,E86.0,Dehydration after exertion
+1062,J96.01,Acute respiratory failure with hypoxia and hypercapnia (CMS/HCC)
+1063,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+1063,K51.30,Ulcerative rectosigmoiditis without complication (CMS/HCC)
+1063,C34.32,Malignant neoplasm of lower lobe of left lung (CMS/HCC)
+1063,H40.10X3,"Open-angle glaucoma of both eyes, severe stage"
+1064,Z99.11,On mechanically assisted ventilation (CMS/HCC)
+1064,D62,Acute blood loss as cause of postoperative anemia
+1064,C34.90,Lung cancer metastatic to bone (CMS/HCC)
+1064,R68.89,Suspected deep tissue injury of unknown depth of lower back
+1065,C4A.71,Merkel cell carcinoma of right lower extremity (CMS/HCC)
+1067,R29.898,Weakness of both lower extremities
+1067,J96.01,Acute hypoxemic respiratory failure (CMS/HCC)
+1067,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+1068,R05,Cough present for greater than 3 weeks
+1068,G89.18,Acute post-operative pain
+1068,R51,Headache
+1069,B59,Pneumonia of right upper lobe due to Pneumocystis jirovecii (CMS/HCC)
+1070,G95.29,Spinal cord compression due to malignant neoplasm metastatic to spine (CMS/HCC)
+1070,E66.3,Overweight
+1070,G62.0,Peripheral neuropathy due to chemotherapy (CMS/HCC)
+1070,F41.8,Anxiety about health
+1070,K59.03,Therapeutic opioid induced constipation
+1070,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+1070,R09.02,Postoperative hypoxia
+1071,A41.9,Sepsis (CMS/HCC)
+1071,C34.92,Primary malignant neoplasm of left lung metastatic to other site (CMS/HCC)
+1071,I63.00,Cerebrovascular accident (CVA) due to thrombosis of precerebral artery (CMS/HCC)
+1071,R29.898,Decreased ROM of neck
+1071,C43.8,Malignant melanoma of overlapping sites (CMS/HCC)
+1071,C34.92,Adenocarcinoma of left lung (CMS/HCC)
+1071,D61.9,Anemia due to bone marrow failure (CMS/HCC)
+1072,I89.0,Lymphedema of left lower extremity
+1072,Z08,Encounter for follow-up examination after radiotherapy for malignant neoplasm
+1072,C79.31,Secondary malignant melanoma of brain (CMS/HCC)
+1072,Z79.01,On continuous oral anticoagulation
+1072,C43.9,Malignant melanoma metastatic to lymph node (CMS/HCC)
+1073,Z96.89,Chest tube in place
+1074,C34.90,Stage 4 lung cancer (CMS/HCC)
+1074,S15.002A,"Internal carotid artery injury, left, initial encounter"
+1075,G93.6,Cerebellar edema (CMS/HCC)
+1075,C34.91,"Adenocarcinoma of right lung, stage 4 (CMS/HCC)"
+1076,C79.31,Metastatic melanoma of brain
+1077,S22.081D,Closed stable burst fracture of eleventh thoracic vertebra with routine healing
+1078,I25.118,Coronary artery disease of native artery of native heart with stable angina pectoris (CMS/HCC)
+1078,C79.72,Malignant neoplasm metastatic to left adrenal gland (CMS/HCC)
+1078,A41.9,Sepsis (CMS/HCC)
+1079,M54.5,Acute left-sided low back pain without sciatica
+1079,C34.80,Malignant neoplasm of overlapping sites of lung (CMS/HCC)
+1079,I50.20,Heart failure with reduced ejection fraction (CMS/HCC)
+1079,J18.1,Pneumonia of left lower lobe due to infectious organism (CMS/HCC)
+1079,D22.9,Change in mole
+1079,C84.90,Mature NK/T-cell lymphoma (CMS/HCC)
+1080,C34.82,Malignant neoplasm of overlapping sites of left lung (CMS/HCC)
+1081,M54.40,Acute bilateral low back pain with sciatica
+1081,G89.18,Acute post-operative pain
+1081,C34.91,"Adenocarcinoma of lung, stage 4, right (CMS/HCC)"
+1081,G62.0,Chemotherapy-induced peripheral neuropathy (CMS/HCC)
+1081,Z92.89,History of immunotherapy
+1082,C78.00,Malignant neoplasm metastatic to lung (CMS/HCC)
+1082,G47.19,Excessive daytime sleepiness
+1083,H91.93,Decreased hearing of both ears
+1083,M62.9,Hamstring tightness of both lower extremities
+1083,C77.8,Malignant neoplasm metastatic to lymph nodes of multiple sites (CMS/HCC)
+1083,E11.65,"Type 2 diabetes mellitus with hyperglycemia, with long-term current use of insulin (CMS/HCC)"
+1083,M75.01,Adhesive capsulitis of both shoulders
+1084,N12,Interstitial nephritis determined by biopsy
+1084,Z00.6,Clinical trial participant
+1084,Z89.512,History of amputation of left lower extremity through tibia and fibula (CMS/HCC)
+1084,R53.0,Neoplastic (malignant) related fatigue
+1085,I63.9,Cerebrovascular accident (CVA) (CMS/HCC)
+1085,A41.9,Sepsis (CMS/HCC)
+1085,R06.03,Respiratory difficulty
+1086,G93.41,Acute metabolic encephalopathy
+1086,M54.9,Tenderness of back
+1086,E11.22,"Type 2 diabetes mellitus with stage 2 chronic kidney disease, with long-term current use of insulin (CMS/HCC)"
+1086,A41.9,Sepsis (CMS/HCC)
+1086,G47.19,Excessive daytime sleepiness
+1087,C34.12,Malignant neoplasm of upper lobe of left lung (CMS/HCC)
+1087,H43.393,Vitreous floaters of both eyes
+1087,A41.9,Septic shock (CMS/HCC)
+1087,E03.2,Hypothyroidism due to medication
+1087,M54.6,Chronic bilateral thoracic back pain
+1088,M54.5,Bilateral low back pain without sciatica
+1088,M50.323,Degeneration of intervertebral disc at C6-C7 level
+1088,L03.119,Cellulitis and abscess of lower extremity
+1089,R41.82,"Altered mental status, unspecified"
+1089,R53.83,Fatigue due to treatment
+1089,G89.3,Pain from bone metastases (CMS/HCC)
+1090,M25.561,Acute pain of both knees
+1091,Z91.89,Risk factors for obstructive sleep apnea
+1091,C34.91,Non-small cell cancer of right lung (CMS/HCC)
+1091,R51,Headache
+1091,Z51.5,Comfort measures only status
+1091,F06.4,Anxiety disorder due to general medical condition
+1091,R51,Headache
+1091,E11.9,"Type 2 diabetes mellitus without complication, with long-term current use of insulin (CMS/HCC)"
+1092,C54.1,MLH1-related endometrial cancer (CMS/HCC)
+1092,E11.22,"Controlled type 2 diabetes mellitus with stage 1 chronic kidney disease, without long-term current use of insulin (CMS/HCC)"
+1092,J96.21,Acute on chronic respiratory failure with hypoxia (CMS/HCC)
+1092,C34.90,Primary malignant neoplasm of lung metastatic to other site (CMS/HCC)
+1092,I82.629,Deep vein thrombosis (DVT) of upper extremity (CMS/HCC)
+1092,E03.2,Hypothyroidism due to medication

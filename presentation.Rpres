@@ -4,6 +4,10 @@ author: Miriam Hu and Naichen Ni
 date: Dec. 5, 2019
 autosize: true
 
+```{r setup, include = FALSE}
+opts_chunk$set(echo = FALSE, cache = TRUE)
+```
+
 Introduction
 ========================================================
 
@@ -13,20 +17,39 @@ Introduction
 - Ranges from 0 to 24
 - Each comorbid disease is assigned to a weight according to risk of death.
 - e.g. Diabetes or chronic liver disease add 1 point to the score, while metastatic cancer or AIDS contribute 6 points.
+- R package **comorbidity** can calculate the Charlson.
 
 What if your dataset only had cancer patients?
 
 NCI Comorbidity Index
 ========================================================
 - Excludes tumors, leukemias, and lymphomas
-- Slightly different weighting scheme
+- Slightly different weighting scheme (e.g. kidney disease has a score of 1.60 instead of 2)
 
-Slide With Code
+Example Data
 ========================================================
 
-```{r}
-summary(cars)
+```{r example-data}
+library(tidyverse)
+library(plyr)
+library(comorbidity)
+library(readxl)
+
+# Clean the example data and write to csv for presentation -----
+# example <- read_csv("example_data.csv")
+# example <- example %>% subset(DIAGNOSIS_CODE_TYPE == "ICD-10")
+# example <- example %>% subset(select = -DIAGNOSIS_CODE_TYPE)
+# example$id <- sample(example$PATIENT_ID)
+# example <- example %>% subset(select = -PATIENT_ID)
+# example <- example %>% select(id, everything())
+# example <- example %>% arrange(id)
+# write_csv(example, "example_data.csv")
+
+example <- read_csv("example_data.csv")
+kable(head(example))
 ```
+***
+Text here
 
 Slide With Plot
 ========================================================
