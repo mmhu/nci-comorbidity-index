@@ -1,4 +1,4 @@
-id,DIAGNOSIS_CODE,DIAGNOSIS_DESCRIPTION
+patient.id,ICD.code,diagnosis.description
 1,H50.21,Hypotropia of right eye
 1,I82.411,Acute deep vein thrombosis (DVT) of femoral vein of right lower extremity (CMS/HCC)
 1,C34.91,Primary cancer of right lung metastatic to other site (CMS/HCC)
