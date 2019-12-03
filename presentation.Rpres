@@ -1,0 +1,36 @@
+Calculating NCI Comorbidity Index
+========================================================
+author: Miriam Hu and Naichen Ni
+date: Dec. 5, 2019
+autosize: true
+
+Introduction
+========================================================
+
+**Charlson Comorbidity Index:** most widely used measure of comorbid diseases
+
+- First created in 1987
+- Ranges from 0 to 24
+- Each comorbid disease is assigned to a weight according to risk of death.
+- e.g. Diabetes or chronic liver disease add 1 point to the score, while metastatic cancer or AIDS contribute 6 points.
+
+What if your dataset only had cancer patients?
+
+NCI Comorbidity Index
+========================================================
+- Excludes tumors, leukemias, and lymphomas
+- Slightly different weighting scheme
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
