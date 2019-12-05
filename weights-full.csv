@@ -1,0 +1,15 @@
+﻿Disease Category,Weight
+Acute Myocardial Infarction,1.14
+History of Myocardial Infarction,1.08
+Congestive Heart Failure,1.91
+Peripheral Vascular Disease,1.3
+Cerebrovascular Disease,1.32
+COPD,1.69
+Dementia,2.06
+Paralysis,1.49
+Diabetes,1.34
+Renal Disease,1.6
+Liver Disease,2.09
+Ulcers,1.08
+Rheumatic Disease,1.25
+AIDS,1.79

@@ -31,53 +31,6 @@ library(comorbidity)
 library(Matrix)
 ```
 
-```{r modify-codes, eval = FALSE}
-# Modify ICD-9 codes to correspond with NCI categories ------ 
-load(file = "sysdata.rda") # creates lofregex, a list of lists
-mod <- lofregex # copy the list
-
-mod$charlson$icd9$ami <- "^410" # ami is just 410
-
-mod$charlson$icd9$histami <- "^412" # history of ami
-
-mod$charlson$icd9$diab <- "^2500|^2501|^2502|^2503|^2508|^2509|^2504|^2505|^2506|^2507"# combine diabetes and diabetes with complications
-
-mod$charlson$icd9$diabwc <- NULL # remove now useless diabwc
-
-mod$charlson$icd9$ld <- "^07022|^07023|^07032|^07033|^07044|^07054|^0706|^0709|^570|^571|^5733|^5734|^5738|^5739|^V427|^4560|^4561|^4562|^5722|^5723|^5724|^5725|^5726|^5727|^5728" # combine mild and moderate/severe liver disease
-
-mod$charlson$icd9$mld <- NULL # now defunct
-mod$charlson$icd9$msld <- NULL # also now defunct
-
-mod$charlson$icd9$canc <- NULL # remove cancer
-mod$charlson$icd9$metacanc <- NULL # remove metastatic cancer
-
-# Modify ICD-10 codes to correspond with NCI categories -----
-mod$charlson$icd10$ami <- "^I21|^I22" # ami is just these two
-
-mod$charlson$icd10$histami <- "^I252" # history of ami, I25.2
-
-mod$charlson$icd10$diab <- "^E100|^E101|^E106|^E108|^E109|^E110|^E111|^E116|^E118|^E119|^E120|^E121|^E126|^E128|^E129|^E130|^E131|^E136|^E138|^E139|^E140|^E141|^E146|^E148|^E149|^E102|^E103|^E104|^E105|^E107|^E112|^E113|^E114|^E115|^E117|^E122|^E123|^E124|^E125|^E127|^E132|^E133|^E134|^E135|^E137|^E142|^E143|^E144|^E145|^E147"# combine diabetes and diabetes with complications
-
-mod$charlson$icd10$diabwc <- NULL # remove now useless diabwc
-
-mod$charlson$icd10$ld <- "^B18|^K700|^K701|^K702|^K703|^K709|^K713|^K714|^K715|^K717|^K73|^K74|^K760|^K762|^K763|^K764|^K768|^K769|^Z944|^I850|^I859|^I864|^I982|^K704|^K711|^K721|^K729|^K765|^K766|^K767" # combine mild and moderate/severe liver disease
-
-mod$charlson$icd10$mld <- NULL # now defunct
-mod$charlson$icd10$msld <- NULL # also now defunct
-
-mod$charlson$icd10$canc <- NULL # remove cancer
-mod$charlson$icd10$metacanc <- NULL # remove metastatic cancer
-
-lofregex <- mod
-
-# Reorder diseases according to NCI categories ---------
-weights <- read_csv("weights.csv")
-pattern <- weights$disease.category
-lofregex$charlson$icd9 <- lofregex$charlson$icd9[pattern]
-lofregex$charlson$icd10 <- lofregex$charlson$icd10[pattern]
-```
-
 ## Introduction
 
 **Charlson Comorbidity Index:** most widely used measure of comorbid diseases
@@ -90,10 +43,21 @@ lofregex$charlson$icd10 <- lofregex$charlson$icd10[pattern]
 
 What if your dataset only had cancer patients?
 
-**NCI Comorbidity Index:**
-
-- Excludes tumors, leukemias, and lymphomas
-- Slightly different weighting scheme (e.g. kidney disease has a score of 1.60 instead of 2)
+## NCI Comorbidity Index:
+\begin{columns}
+  \begin{column}{0.34\textwidth}
+    \begin{itemize}
+      \item Excludes tumors, leukemias, and lymphomas
+      \item Slightly different weighting scheme (e.g. renal disease has a score of 1.60 instead of 2)
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.64\textwidth}
+    ```{r weights-vector}
+    weights.full <- read_csv("weights-full.csv")
+    weights.full %>% kable() %>% row_spec(0, bold = TRUE)
+    ```
+  \end{column}
+\end{columns}
 
 ## Example Data
 
@@ -120,127 +84,133 @@ print.cmb <- kable(cmb[1:15, c(1:18, 21)])
 print.cmb %>% kable_styling(latex_options = "scale_down") %>% row_spec(0, bold = TRUE)
 ```
 
-## Our Function
+## Steps
 
-```{r our-functions}
-tidy <- function(x, code) {
-  ### Upper case all codes
-  x[[code]] <- toupper(x[[code]])
-  
-  ### Remove non-alphanumeric characters
-  x[[code]] <- gsub(pattern = "[^[:alnum:]]", x = x[[code]], replacement = "")
-  
-  ### Return x
-  return(x)
-}
+1. Match the ICD codes with the disease categories in the NCI Comorbidity Index
+2. Merge NCI Comorbidity Index and reshape
+3. Transform into sparse matrix and calculate weighted score
 
-nci.comorbidity <- function(x, icd = "icd10", tidy.codes = TRUE) {
-  if(tidy.codes){
-    x <-tidy(x = x, code = "code")
-  }
-  regex <- lofregex[["charlson"]][[icd]]
+## Steps 1 and 2
+
+\begin{columns}
+  \begin{column}{0.48\textwidth}
+  $\textbf{Step 1:}$ Match the ICD codes with the disease categories in the NCI Comorbidity Index
+  \vspace{2em}
+    ```{r step1}
+    load(file = "sysdata.rda")
+    weights <-read_csv("weights.csv")
+    tidy <- function(x, code) {
+      ### Upper case all codes
+      x[[code]] <- toupper(x[[code]])
+      
+      ### Remove non-alphanumeric characters
+      x[[code]] <- gsub(pattern = "[^[:alnum:]]", x = x[[code]], replacement = "")
+      
+      ### Return x
+      return(x)
+    }
+    x <-tidy(x = example, code = "code")
+    icd = "icd10"
+    regex <- lofregex[["charlson"]][[icd]]
+      
+    ### Subset only 'id' and 'code' columns
+    if (data.table::is.data.table(x)) {
+      x <- x[, c("id", "code"), with = FALSE]
+    } else {
+      x <- x[, c("id", "code")]
+    }
+      
+    ### Turn x into a DT
+    data.table::setDT(x)
+      
+    loc <- sapply(regex, grep, unique(x[["code"]]), value = TRUE)
+    loc <- utils::stack(loc)
+    names(loc)[1] <- "code"
+    kable(loc[sample(1:30, 9), ], row.names = FALSE) %>% row_spec(0, bold = TRUE)
+    ```
+  \end{column}
+  \begin{column}{0.48\textwidth}
+  $\textbf{Step 2:}$ Merge NCI Comorbidity Index and reshape
+  \end{column}
+\end{columns}
+
+```{r step2}
+x <- tidy(x = example, code = "code")
+icd = "icd10"
+regex <- lofregex[["charlson"]][[icd]]
   
-  ### Subset only 'id' and 'code' columns
-  if (data.table::is.data.table(x)) {
-    x <- x[, c("id", "code"), with = FALSE]
-  } else {
-    x <- x[, c("id", "code")]
-  }
-  
-  ### Turn x into a DT
-  data.table::setDT(x)
-  
-  loc <- sapply(regex, grep, unique(x[["code"]]), value = TRUE)
-  loc <- utils::stack(loc)
-  names(loc)[1] <- "code"
-  
-  ### Merge list with original data.table (data.frame)
-  x <- merge(x, loc, all.x = TRUE, allow.cartesian = TRUE)
-  x[["code"]] <- NULL
-  x <- unique(x)
-  
-  ### Spread wide
-  xin <- x[, c("id", "ind"), with = FALSE]
-  xin[, value := 1L]
-  x <- data.table::dcast.data.table(xin, stats::as.formula(paste("id", "~ ind")), fill = 0)
-  x[["NA"]] <- NULL
-  
-  ### Add missing columns
-  for (col in names(regex)) {
-    if (is.null(x[[col]])) x[[col]] <- 0
-  }
-  data.table::setcolorder(x, c("id", names(regex)))
-  
-  ### Turn internal DT into a DF
-  data.table::setDF(x)
-  
-  x_mat = Matrix(as.matrix(x[,2:ncol(x)]),sparse = T)
-  weight_vec = as.matrix(weights$weight)
-  x$wscore = as.vector(x_mat%*%weight_vec)
-  
-  return(x)
+### Subset only 'id' and 'code' columns
+if (data.table::is.data.table(x)) {
+  x <- x[, c("id", "code"), with = FALSE]
+} else {
+  x <- x[, c("id", "code")]
 }
+  
+### Turn x into a DT
+data.table::setDT(x)
+  
+loc <- sapply(regex, grep, unique(x[["code"]]), value = TRUE)
+loc <- utils::stack(loc)
+names(loc)[1] <- "code"
+x <- merge(x, loc, all.x = TRUE, allow.cartesian = TRUE)
+x[["code"]] <- NULL
+x <- unique(x)
+  
+### Spread wide
+xin <- x[, c("id", "ind"), with = FALSE]
+xin[, value := 1L]
+x <- data.table::dcast.data.table(xin, stats::as.formula(paste("id", "~ ind")), fill = 0)
+x[["NA"]] <- NULL
+  
+### Add missing columns
+for (col in names(regex)) {
+  if (is.null(x[[col]])) x[[col]] <- 0
+}
+data.table::setcolorder(x, c("id", names(regex)))
+### Turn internal DT into a DF
+data.table::setDF(x)
+part_x <- kable(x[1:15,1:15])
+# part_x %>% kable_styling(latex_options = "scale_down") %>% row_spec(0, bold = TRUE)
 ```
 
-```{r with-function}
-nci.with <- function(x, icd = "icd10", tidy.codes = TRUE) {
-  if(tidy.codes){
-    x <-tidy(x = x, code = "code")
-  }
-  regex <- lofregex[["charlson"]][[icd]]
-  
-  ### Subset only 'id' and 'code' columns
-  if (data.table::is.data.table(x)) {
-    x <- x[, c("id", "code"), with = FALSE]
-  } else {
-    x <- x[, c("id", "code")]
-  }
-  
-  ### Turn x into a DT
-  data.table::setDT(x)
-  
-  loc <- sapply(regex, grep, unique(x[["code"]]), value = TRUE)
-  loc <- utils::stack(loc)
-  names(loc)[1] <- "code"
-  
-  ### Merge list with original data.table (data.frame)
-  x <- merge(x, loc, all.x = TRUE, allow.cartesian = TRUE)
-  x[["code"]] <- NULL
-  x <- unique(x)
-  
-  ### Spread wide
-  xin <- x[, c("id", "ind"), with = FALSE]
-  xin[, value := 1L]
-  x <- data.table::dcast.data.table(xin, stats::as.formula(paste("id", "~ ind")), fill = 0)
-  x[["NA"]] <- NULL
-  
-  ### Add missing columns
-  for (col in names(regex)) {
-    if (is.null(x[[col]])) x[[col]] <- 0
-  }
-  data.table::setcolorder(x, c("id", names(regex)))
-  
-  ### Turn internal DT into a DF
-  print(x)
-  #data.table::setDF(x)
-  
-  x <- Matrix(as.matrix(x[,2:ncol(x)]),sparse = T)
-  x$wscore <- with(x, ami*1.14 + histami*1.08 + chf*1.91 + pvd*1.30 + cevd*1.32 + copd*1.69 + dementia*2.06 + hp*1.49 + diab*1.34 + rend*1.60 + ld*2.09 + pud*1.08 + rheumd*1.25 + aids*1.79)
-  
-  return(x)
-}
+## Step 3: Transform into sparse matrix and calculate wscore
+
+```{r step3, echo = TRUE}
+x_mat <- Matrix(as.matrix(x[, 2:ncol(x)]), sparse = T)
+weight_vec <- as.matrix(weights$weight)
+x$wscore <- as.vector(x_mat%*%weight_vec)
 ```
 
-```{r example-data-output}
-## For real data
-load("sysdata.rda")
-example <- read.csv("example-data.csv")
-weights <-read.csv("weights.csv")
-
-system.time(cmb_ours <- nci.comorbidity(example, icd = "icd10", tidy.codes = TRUE))
-
-system.time(cmb<-comorbidity(x = example, id = "id", code = "code", score = "charlson", icd = "icd10", assign0 = TRUE))
+```{r print-step3}
+part_x <- kable(x[1:10,1:16])
+part_x %>% kable_styling(latex_options = "scale_down") %>% row_spec(0, bold = TRUE)
 ```
+
+## Time complexity of sparse matrix multiplication
+
+**Our method:**
+
+- $\mathbf{A}_{n \times k}$ (sparse matrix with $q$ non-zero elements)
+- $\mathbf{b}_{k \times 1}$ (dense vector)
+
+The operation $\mathbf{Ab}$ has time complexity $O(q)$.
+
+**Comorbidity package method:**
+
+If $\mathbf{A}_{n \times k}$ is instead stored as a dense matrix, then  $\mathbf{Ab}$ is $O(nk)$.
+
+\vspace{3em}
+
+\begin{columns}
+  \begin{column}{0.48\textwidth}
+    \textit{Our function:}
+    \includegraphics[width=\textwidth]{real_time_ours.png}
+  \end{column}
+  \begin{column}{0.48\textwidth}
+    \textit{Comorbidity function:}
+    \includegraphics[width=\textwidth]{real_time_cmb.png}
+  \end{column}
+\end{columns}
 
 ## Simulated Data
 
@@ -252,20 +222,20 @@ system.time(cmb<-comorbidity(x = example, id = "id", code = "code", score = "cha
 #   stringsAsFactors = FALSE
 # )
 # simu_data <- simu_data[order(simu_data$id), ]
-
-simu_data <- read_csv("simulated-data.csv")
-simu_data <- simu_data[order(simu_data$id), ]
-
-our.time.simu <- system.time(simu_cmb_ours <- nci.comorbidity(simu_data, icd = "icd10", tidy.codes = TRUE))
-
-orig.time.simu <- system.time(simu_cmb <- comorbidity(x = simu_data, id = "id", code = "code", score = "charlson", icd = "icd10", assign0 = TRUE))
 ```
 
-```{r print-time}
-our.time.simu
-orig.time.simu
-```
+- Simulated 2,000,000 observations by sampling from a list of ICD-codes (provided by `comorbidity` package)
+- Our function performs better than the `comorbidity` function on the large simulated data.
 
-Questions:
-with() function faster?
-Where is the option to choose ICD-9 vs ICD-10?
+\vspace{3em}
+
+\begin{columns}
+  \begin{column}{0.48\textwidth}
+    \textit{Our function:}
+    \includegraphics[width=\textwidth]{simu_time_ours.png}
+  \end{column}
+  \begin{column}{0.48\textwidth}
+    \textit{Comorbidity function:}
+    \includegraphics[width=\textwidth]{simu_time_cmb.png}
+  \end{column}
+\end{columns}
